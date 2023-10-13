@@ -44,24 +44,24 @@ en:
       weight: 3
       post: "Nulla consequat massa quis enim. Donec pede justo."
       parent: "about"
-    - identifier: "example"
-      name: "Example"
+    - identifier: "qualityengineering"
+      name: "Quality Engineering"
       url: "/qualityengineering/"
       weight: 2
     - identifier: "quality-engineering"
-      name: "Example Child Page"
+      name: "Testing in CI"
       url: "/qualityengineering/"
       weight: 1
       post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
       parent: "example"
     - identifier: "quality-engineering"
-      name: "Example Child Page"
+      name: "Test Strategy"
       url: "/qualityengineering/"
       weight: 2
       post: "Nulla consequat massa quis enim. Donec pede justo."
       parent: "example"
     - identifier: "quality-engineering"
-      name: "Example Child Page"
+      name: "Process improvement"
       url: "/qualityengineering/"
       weight: 3
       post: "Aenean commodo ligula get dolor. Aenean massa. "
