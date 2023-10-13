@@ -1,5 +1,5 @@
 ---
-title: Quality engineering and Accessibility auditing
+title: Quality engineering
 description: Quality engineering in the pipeline.
 ---
 
