@@ -5,8 +5,7 @@ description: Get an audit at any point in your web and mobile app projects
 
 > Get an audit at any point in your project, and also get advice with pushing accessibility as part of your way of working, from design to code to production
 
-## Accessibility audit
-The audit targets a wide range of disabilities, including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities.
+_The audit targets a wide range of disabilities, including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities._
 
 ## What you will get
 
@@ -16,13 +15,7 @@ The audit targets a wide range of disabilities, including visual, auditory, phys
 - An accessibility statement (inline with your current accessibility status) that can be published to a website advising on status of WCAG 2.2 AA compliance.
 - Add accessibility tests in your CI pipeline
 
-A first important step is to realise Acessibility is a continual improvements exercise.
-
-Just because your app passes in Sprint 5, it doesn't mean it will pass in Sprint 8.
-
-Treat an audit as a startpoint, to integrating accessibility checks earlier in the development lifecycle.
+> Treat an audit as a startpoint, to integrating accessibility checks earlier in the development lifecycle.
 
 {{< button link="https://main--bespoke-salamander-78886a.netlify.app/faq/" text="Accessibility FAQ" >}}
-
 {{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}}
-
