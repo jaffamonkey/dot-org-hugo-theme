@@ -1,14 +1,12 @@
 ---
 title: Accessbility Audit
-description: Get an audit at any point in your project, and also get advice with pushing accessibility as part of your way of working, from design to code to production
+description: Get an audit at any point in your web and mobile app projects
 ---
 
 > Get an audit at any point in your project, and also get advice with pushing accessibility as part of your way of working, from design to code to production
 
 ## Accessibility audit
 The audit targets a wide range of disabilities, including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities.
-
-> Auditing reporting available for web and mobile apps (WCAG 2.2).
 
 ## What you will get
 

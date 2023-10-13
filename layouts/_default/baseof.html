@@ -14,13 +14,13 @@
                     <h1 class="title">{{ .Title }}</h1>
                 </header>
             {{ end }}
-            {{ if or (eq .Kind "section") (eq .Kind "home") }}
+            {{ if (eq .Kind "section")}}
             <div class="content">
             {{ else }}
             <article class="content">
             {{ end }}
             {{- block "main" . }}{{ .Content }}{{- end }}
-            {{ if or (eq .Kind "section") (eq .Kind "home") }}
+            {{ if (eq .Kind "section")}}
             </div>
             {{ else }}
             </article>
