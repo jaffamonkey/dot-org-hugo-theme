@@ -1,5 +1,5 @@
 ---
-title: "What is Hugo?"
+title: "Accessibility checks in CI"
 weight: 1
 ---
 
