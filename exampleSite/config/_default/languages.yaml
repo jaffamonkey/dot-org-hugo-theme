@@ -48,7 +48,7 @@ en:
       weight: 3
       post: "Aenean commodo ligula get dolor. Aenean massa. "
       parent: "testing"
-    - identifier: "Accessibility"
+    - identifier: "accessibility"
       name: "Accessibility"
       url: "/accessibilityaudit/"
       weight: 3
@@ -57,7 +57,7 @@ en:
       url: "/accessibilityaudit/"
       weight: 1
       post: "Accessibility audit."
-      parent: "testing"
+      parent: "accessibility"
     - identifier: "faq"
       name: "FAQs"
       url: "/faq/"
