@@ -56,10 +56,10 @@ en:
       name: "FAQs"
       url: "/faq/"
       weight: 4
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
-      weight: 5
+    # - identifier: "blog"
+    #   name: "Blog"
+    #   url: "/blog/"
+    #   weight: 5
 es:
   languageName: Spanish
   contentDir: content/es
