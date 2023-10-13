@@ -24,26 +24,8 @@ en:
     main:
     - identifier: "about"
       name: "About"
-      url: "/qualityengineering/"
+      url: "/about/"
       weight: 1
-    - identifier: "child-1"
-      name: "Example Child Page"
-      url: "/qualityengineering/"
-      weight: 1
-      post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
-      parent: "about"
-    - identifier: "child-2"
-      name: "Example Child Page"
-      url: "/qualityengineering/"
-      weight: 2
-      post: "Aenean commodo ligula get dolor. Aenean massa."
-      parent: "about"
-    - identifier: "child-3"
-      name: "Example Child Page"
-      url: "/qualityengineering/"
-      weight: 3
-      post: "Nulla consequat massa quis enim. Donec pede justo."
-      parent: "about"
     - identifier: "qualityengineering"
       name: "Quality Engineering"
       url: "/qualityengineering/"
@@ -53,19 +35,19 @@ en:
       url: "/qualityengineering/"
       weight: 1
       post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
-      parent: "example"
+      parent: "qualityengineering"
     - identifier: "quality-engineering"
       name: "Test Strategy"
       url: "/qualityengineering/"
       weight: 2
       post: "Nulla consequat massa quis enim. Donec pede justo."
-      parent: "example"
+      parent: "qualityengineering"
     - identifier: "quality-engineering"
       name: "Process improvement"
       url: "/qualityengineering/"
       weight: 3
       post: "Aenean commodo ligula get dolor. Aenean massa. "
-      parent: "example"
+      parent: "qualityengineering"
     - identifier: "accessibility-audit"
       name: "Accessibility"
       url: "/accessibilityaudit/"
