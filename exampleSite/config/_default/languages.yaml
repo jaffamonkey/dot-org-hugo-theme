@@ -26,8 +26,8 @@ en:
       name: "About"
       url: "/about/"
       weight: 1
-    - identifier: "qualityengineering"
-      name: "Quality Engineering"
+    - identifier: "testing"
+      name: "Testing"
       url: "/qualityengineering/"
       weight: 2
     - identifier: "quality-engineering"
@@ -35,19 +35,19 @@ en:
       url: "/qualityengineering/"
       weight: 1
       post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
-      parent: "qualityengineering"
+      parent: "testing"
     - identifier: "quality-engineering"
       name: "Test Strategy"
       url: "/qualityengineering/"
       weight: 2
       post: "Nulla consequat massa quis enim. Donec pede justo."
-      parent: "qualityengineering"
+      parent: "testing"
     - identifier: "quality-engineering"
       name: "Process improvement"
       url: "/qualityengineering/"
       weight: 3
       post: "Aenean commodo ligula get dolor. Aenean massa. "
-      parent: "qualityengineering"
+      parent: "testing"
     - identifier: "accessibility-audit"
       name: "Accessibility"
       url: "/accessibilityaudit/"
