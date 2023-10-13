@@ -14,19 +14,17 @@
                     <h1 class="title">{{ .Title }}</h1>
                 </header>
             {{ end }}
-            {{ if or (eq .Kind "section") (eq .Kind "home") }}
+            <!-- {{ if or (eq .Kind "section") (eq .Kind "home") }}
             <div class="content">
             {{ else }}
-            <div class="content">
-            <!-- <article class="content"> -->
+            <article class="content">
             {{ end }}
             {{- block "main" . }}{{ .Content }}{{- end }}
             {{ if or (eq .Kind "section") (eq .Kind "home") }}
             </div>
             {{ else }}
-            </div>
-            <!-- </article> -->
-            {{ end }}
+            </article>
+            {{ end }} -->
         </section>
         {{- partial "footer.html" . -}}
     </body>
