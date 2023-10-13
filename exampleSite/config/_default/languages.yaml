@@ -10,7 +10,7 @@ en:
     accessibility:
       skip_text: "Skip to content"
       help_text: "Accessibility Statement"
-      help_url: "/accessibilityaudit/"
+      help_url: "/accessibilitystatement/"
     ### calls to action ###
     main_cta:
       text: "Join"
