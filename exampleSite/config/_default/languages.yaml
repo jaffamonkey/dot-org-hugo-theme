@@ -10,59 +10,59 @@ en:
     accessibility:
       skip_text: "Skip to content"
       help_text: "Accessibility Statement"
-      help_url: "/accessibility-audit/"
+      help_url: "/accessibilityaudit/"
     ### calls to action ###
     main_cta:
       text: "Join"
-      link: "/accessibility-audit/"
+      link: "/accessibilityaudit/"
     footer_cta:
       text: "Join us"
-      link: "/accessibility-audit/"
+      link: "/accessibilityaudit/"
     github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
   menu:
     main:
     - identifier: "about"
       name: "About"
-      url: "/accessibility-audit/"
+      url: "/accessibilityaudit/"
       weight: 1
     - identifier: "child-1"
       name: "Example Child Page"
-      url: "/accessibility-audit/"
+      url: "/accessibilityaudit/"
       weight: 1
       post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
       parent: "about"
     - identifier: "child-2"
       name: "Example Child Page"
-      url: "/accessibility-audit/"
+      url: "/accessibilityaudit/"
       weight: 2
       post: "Aenean commodo ligula get dolor. Aenean massa."
       parent: "about"
     - identifier: "child-3"
       name: "Example Child Page"
-      url: "/accessibility-audit/"
+      url: "/accessibilityaudit/"
       weight: 3
       post: "Nulla consequat massa quis enim. Donec pede justo."
       parent: "about"
     - identifier: "example"
       name: "Example"
-      url: "/accessibility-audit/"
+      url: "/accessibilityaudit/"
       weight: 2
     - identifier: "example-1"
       name: "Example Child Page"
-      url: "/accessibility-audit/"
+      url: "/accessibilityaudit/"
       weight: 1
       post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
       parent: "example"
     - identifier: "example-2"
       name: "Example Child Page"
-      url: "/accessibility-audit/"
+      url: "/accessibilityaudit/"
       weight: 2
       post: "Nulla consequat massa quis enim. Donec pede justo."
       parent: "example"
     - identifier: "example-3"
       name: "Example Child Page"
-      url: "/accessibility-audit/"
+      url: "/accessibilityaudit/"
       weight: 3
       post: "Aenean commodo ligula get dolor. Aenean massa. "
       parent: "example"
@@ -88,11 +88,11 @@ es:
     main:
     - identifier: "about"
       name: "Acerca de"
-      url: "/accessibility-audit/"
+      url: "/accessibilityaudit/"
       weight: 1
     - identifier: "child-1"
       name: "Página Hija de Ejemplo"
-      url: "/accessibility-audit/"
+      url: "/accessibilityaudit/"
       weight: 1
       parent: "about"
     - identifier: "faq"
