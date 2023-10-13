@@ -1,5 +1,5 @@
 ---
-title: Quality engineering
+title: Quality Engineering
 description: Quality engineering in the pipeline.
 ---
 
