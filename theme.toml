@@ -1,7 +1,7 @@
 name = "jaffamonkey"
 license = "MIT"
 licenselink = "https://github.com/cncf/dot-org-hugo-theme/blob/main/LICENSE"
-description = "TQuality engineering in the pipeline"
+description = "Quality engineering in the pipeline"
 homepage = "https://bespoke-salamander-78886a.netlify.app"
 demosite = "https://bespoke-salamander-78886a.netlify.app"
 min_version = "0.110.0"
