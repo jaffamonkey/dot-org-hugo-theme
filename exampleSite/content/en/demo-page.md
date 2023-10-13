@@ -1,32 +1,15 @@
 ---
-title: Demo Elements Page
-description: A demo page for the various markup elements in the Dot Org theme.
+title: Quality Engineering
+description: Quality engineering in the pipeline
 images: ["https://via.placeholder.com/250x200/d9d9d9/000000"]
 ---
+> Bringing quality to all aspects of a project.
 
-This is a demo page, designed to show you the various elements of the theme and how they sit together.
+Development strategies to help you implement new tools and approaches across teams.
+Building test frameworks for functional and non-functional testing within your CI/CD pipelines. 
 
-It has a custom social image, which can be set in the frontmatter.
+25 years providing quality services on well over 100 projects, for 60+ clients. I can bring a wealth of technical skills expertise, along with delivering quality improvements to project pipeline - even on projects considered unrescuable.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
-
-First here's how the Heading markup displays:
-
-# H1 Heading
-## H2 Heading
-### H3 Heading
-#### H4 Heading
-##### H5 Heading
-###### H6 Heading
-
-## Horizontal Rule
-
-___
-
-
-# Example Content
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient.
 
 ## Table of contents (Shortcode)
 
