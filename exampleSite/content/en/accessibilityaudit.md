@@ -22,4 +22,7 @@ Just because your app passes in Sprint 5, it doesn't mean it will pass in Sprint
 
 Treat an audit as a startpoint, to integrating accessibility checks earlier in the development lifecycle.
 
-[book an intro meeting](https://calendly.com/jaffamonkeyltd/intro-call)
+{{< button link="https://main--bespoke-salamander-78886a.netlify.app/faq/" text="Accessibility FAQ" >}}
+
+{{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}}
+
