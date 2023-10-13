@@ -36,13 +36,13 @@ en:
       weight: 1
       post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
       parent: "testing"
-    - identifier: "quality-engineering"
+    - identifier: "test-strategy"
       name: "Test Strategy"
       url: "/qualityengineering/"
       weight: 2
       post: "Nulla consequat massa quis enim. Donec pede justo."
       parent: "testing"
-    - identifier: "quality-engineering"
+    - identifier: "process-improvement"
       name: "Process improvement"
       url: "/qualityengineering/"
       weight: 3
