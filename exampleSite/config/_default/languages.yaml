@@ -34,7 +34,7 @@ en:
       name: "Quality engineering"
       url: "/qualityengineering/"
       weight: 1
-      post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
+      post: "Testing strategies to help you implement new tools and approaches across teams."
       parent: "testing"
     # - identifier: "test-strategy"
     #   name: "Test Strategy"
