@@ -10,4 +10,4 @@ Building test frameworks for functional and non-functional testing within your C
 > 
 25 years providing quality services on well over 100 projects, for 60+ clients. I can bring a wealth of technical skills expertise, along with delivering quality improvements to project pipeline - even on projects considered unrescuable.
 
-{{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}}
+<!-- {{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}} -->

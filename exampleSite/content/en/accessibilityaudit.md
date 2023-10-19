@@ -18,4 +18,4 @@ _The audit targets a wide range of disabilities, including visual, auditory, phy
 > Treat an audit as a startpoint, to integrating accessibility checks earlier in the development lifecycle.
 
 {{< button link="https://main--bespoke-salamander-78886a.netlify.app/faq/" text="Accessibility FAQ" >}}
-{{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}}
+<!-- {{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}} -->

@@ -13,11 +13,11 @@ en:
       help_url: "/accessibilitystatement/"
     ### calls to action ###
     main_cta:
-      text: "Join"
-      link: "/accessibilityaudit/"
+      text: "Book an intro meeting"
+      link: "https://calendly.com/jaffamonkeyltd/intro-call"
     footer_cta:
-      text: "Join us"
-      link: "/accessibilityaudit/"
+      text: "Book an intro meeting"
+      link: "https://calendly.com/jaffamonkeyltd/intro-call"
     github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
   menu:
