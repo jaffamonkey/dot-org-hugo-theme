@@ -30,9 +30,9 @@ en:
       name: "Testing"
       url: "/qualityengineering/"
       weight: 2
-    - identifier: "quality-engineering"
-      name: "Testing in the pipline"
-      url: "/testinginci/"
+    - identifier: "qualityengineering"
+      name: "Quality engineering"
+      url: "/qualityengineering/"
       weight: 1
       post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
       parent: "testing"
