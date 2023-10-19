@@ -16,15 +16,15 @@
             {{ end }}
             {{ if or (eq .Kind "section") (eq .Kind "home") }}
             <div class="content">
-            <!-- {{ else }}
-            <article class="content"> -->
+            {{ else }}
+            <article class="content">
             {{ end }}
             {{- block "main" . }}{{ .Content }}{{- end }}
             <!-- {{ if or (eq .Kind "section") (eq .Kind "home") }} -->
             {{ if or (eq .Kind "section") (eq .Kind "home") }}
             </div>
-            <!-- {{ else }}
-            </article> -->
+            {{ else }}
+            </article>
             {{ end }}
         </section>
         {{- partial "footer.html" . -}}
