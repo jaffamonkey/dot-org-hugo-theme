@@ -58,10 +58,10 @@ en:
       weight: 1
       post: "Accessibility audit."
       parent: "accessibility"
-    - identifier: "faq"
-      name: "FAQs"
-      url: "/faq/"
-      weight: 4
+    # - identifier: "faq"
+    #   name: "FAQs"
+    #   url: "/faq/"
+    #   weight: 4
     # - identifier: "blog"
     #   name: "Blog"
     #   url: "/blog/"
