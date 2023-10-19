@@ -1,6 +1,7 @@
 ---
 title: About
 description: Quality Assurance / Test Engineering / Test Architect / Test Coaching / Accessibility
+images: ["https://via.placeholder.com/250x200/d9d9d9/000000"
 ---
 
 ## Approach
@@ -13,3 +14,4 @@ description: Quality Assurance / Test Engineering / Test Architect / Test Coachi
 - I mentor others - either by arrangement or when I am in a Lead position.
 - I can advise ways on working based on years of practical experience
 - I never ponder of how many ways a project could fail, only on ways to avoid those fails - negativity is not in my nature.
+
