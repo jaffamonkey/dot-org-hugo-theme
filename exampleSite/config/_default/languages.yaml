@@ -36,18 +36,18 @@ en:
       weight: 1
       post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
       parent: "testing"
-    - identifier: "test-strategy"
-      name: "Test Strategy"
-      url: "/qualityengineering/"
-      weight: 2
-      post: "Nulla consequat massa quis enim. Donec pede justo."
-      parent: "testing"
-    - identifier: "process-improvement"
-      name: "Process improvement"
-      url: "/processimprovement/"
-      weight: 3
-      post: "Aenean commodo ligula get dolor. Aenean massa. "
-      parent: "testing"
+    # - identifier: "test-strategy"
+    #   name: "Test Strategy"
+    #   url: "/qualityengineering/"
+    #   weight: 2
+    #   post: "Nulla consequat massa quis enim. Donec pede justo."
+    #   parent: "testing"
+    # - identifier: "process-improvement"
+    #   name: "Process improvement"
+    #   url: "/processimprovement/"
+    #   weight: 3
+    #   post: "Aenean commodo ligula get dolor. Aenean massa. "
+    #   parent: "testing"
     - identifier: "accessibility"
       name: "Accessibility"
       url: "/accessibilityaudit/"
