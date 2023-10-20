@@ -1,7 +1,6 @@
 ---
 title: About
 description: Quality Assurance / Test Engineering / Test Architect / Test Coaching / Accessibility
-images: ["https://via.placeholder.com/250x200/d9d9d9/000000"
 ---
 
 ## Approach
