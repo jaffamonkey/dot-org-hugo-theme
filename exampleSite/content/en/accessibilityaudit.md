@@ -18,5 +18,5 @@ Professionally evaluating the website's accessibility level is a key step in web
 
 > Treat an audit as a startpoint, to integrating accessibility checks earlier in the development lifecycle.
 
-<!-- {{< button link="https://main--bespoke-salamander-78886a.netlify.app/faq/" text="Accessibility FAQ" >}} -->
+<!-- {{< button link="https://jaffamonkey.com/faq/" text="Accessibility FAQ" >}} -->
 <!-- {{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}} -->
