@@ -2,7 +2,6 @@
 title: Accessibility statement
 description: Get an audit at any point in your web and mobile app projects
 ---
-
 ### Accessibility statement for _jaffamonkey.com_
 
 This accessibility statement applies to [scope of statement, for example, website or domain to which the statement applies].

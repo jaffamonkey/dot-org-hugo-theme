@@ -3,7 +3,6 @@ title: Quality Engineering
 description: Quality engineering in the pipeline
 images: ["https://via.placeholder.com/250x200/d9d9d9/000000"]
 ---
-
 - Testing strategies to help you implement new tools and approaches across teams.
 - Building test frameworks for functional and non-functional testing within your CI/CD pipelines. 
 
