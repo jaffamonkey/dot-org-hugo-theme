@@ -15,7 +15,7 @@ Since 1997 I have regularly done testing contract work, covering QA/Test Managen
 
 ## Approach
 - Focusing on current path from requirements to code to production - I like to keep that view in mind, regards quality.
-- An autistic level of attention detail while keeping a broader viewpoint.
+- Attention to detail while keeping a broader viewpoint.
 - Sometimes my soft skills provide the best value for a project, demonstrating my belief in values of transparency and team happiness.
 - Tenacious with developing tests - there is always a way.
 - Ensuring all included in quality discussions, I always chase consensus.
