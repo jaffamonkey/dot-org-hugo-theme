@@ -4,52 +4,29 @@ description: Get an audit at any point in your web and mobile app projects
 ---
 ### Accessibility statement for _jaffamonkey.com_
 
-This accessibility statement applies to [scope of statement, for example, website or domain to which the statement applies].
+This accessibility statement applies to jaffamonkey Ltd website.
 
-[Note: use this section to make a brief, general statement about what the website allows disabled users to do. Base it on the evaluation covered in detail in the ‘Technical information about this website’s accessibility’ section.
+This website is run by jaffamonkey Ltd. We want as many people as possible to be able to use this website. For example, that means you should be able to:
 
-It must be specific to your own website. If you’re not confident that something is accurate, leave it out. If you’re not confident enough to say anything specific here, leave this section out completely.]
+- change colours, contrast levels and fonts using browser or device settings
+- zoom in up to 200% without the text spilling off the screen
+- navigate most of the website using a keyboard or speech recognition software
+- listen to most of the website using a screen reader (including the most recent versions of JAWS, NVDA and VoiceOver)
+- We’ve also made the website text as simple as possible to understand.
 
-This website is run by [name of organisation]. We want as many people as possible to be able to use this website. For example, that means you should be able to:
+#### How accessible this website is
+This site is compliant with WCAG 2.2 guidelines
 
-change colours, contrast levels and fonts using browser or device settings
-zoom in up to 400% without the text spilling off the screen
-navigate most of the website using a keyboard or speech recognition software
-listen to most of the website using a screen reader (including the most recent versions of JAWS, NVDA and VoiceOver)
-We’ve also made the website text as simple as possible to understand.
+#### Feedback and contact information
+If you find any problems not listed on this page or think we’re not meeting accessibility requirements, contact us.
 
-AbilityNet has advice on making your device easier to use if you have a disability.
+If you need information on this website in a different format like accessible PDF, large print, easy read, audio recording or braille: 
+Email paullittlebury@gmail.com and we’ll consider your request and get back to you in [number] days.
 
-How accessible this website is
-[Note: use this section to provide a summary of accessibility issues that a disabled user can act on - for example, avoid a particular section of the website, or request an alternative version rather than waste time trying to make it work with their assistive technology. Try to list in order of most impact to least impact.]
-
-We know some parts of this website are not fully accessible:
-
-you cannot modify the line height or spacing of text
-most older PDF documents are not fully accessible to screen reader software
-live video streams do not have captions
-you cannot skip to the main content when using a screen reader
-there’s a limit to how far you can magnify the map on our ‘contact us’ page
-Feedback and contact information
-If you find any problems not listed on this page or think we’re not meeting accessibility requirements, contact: [provide both details of how to report these issues to your organisation, and contact details for the unit or person responsible for dealing with these reports].
-
-If you need information on this website in a different format like accessible PDF, large print, easy read, audio recording or braille:
-
-email [email address]
-call [phone number]
-[add any other contact details]
-We’ll consider your request and get back to you in [number] days.
-
-If you cannot view the map on our ‘contact us’ page, call or email us [add link to contact details page] for directions.
-
-Enforcement procedure
-[Note: this wording is legally required and must not be changed.]
+#### Enforcement procedure
 
 The Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (the ‘accessibility regulations’). If you’re not happy with how we respond to your complaint, contact the Equality Advisory and Support Service (EASS).
 
-[Note: if your organisation is based in Northern Ireland, refer users who want to complain to the Equality Commission for Northern Ireland (ECNI) instead of the EASS and EHRC.
-
-You must link to either the EASS or ECNI websites.]
 
 Technical information about this website’s accessibility
 [Note: this wording is legally required and must not be changed.]
