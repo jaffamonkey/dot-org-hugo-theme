@@ -4,7 +4,7 @@ description: Get an audit at any point in your web and mobile app projects
 ---
 > Get an audit at any point in your project, and also get advice with pushing accessibility as part of your way of working, from design to code to production
 
-_The audit targets a wide range of disabilities, including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities._
+The audit targets a wide range of disabilities, including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities.
 
 Professionally evaluating the website's accessibility level is a key step in web accessibility and can be performed at any stage of a web or mobile app project.
 
