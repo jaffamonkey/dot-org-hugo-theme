@@ -2,6 +2,16 @@
 title: About
 description: Quality Assurance / Test Engineering / Test Architect / Test Coaching / Accessibility
 ---
+## What I do
+
+Since 1997 I have regularly done testing contract work, covering QA/Test Managenent to Quality/Test Engineering. Over the last few years I have been focusing on providing more tailored services. 
+
+### The services
+
+- Test automation framework implementations.
+- Consultancy advice on testing process within the CI/CD pipelines.
+- Accessibility audits for web and mobile app.
+
 
 ## Approach
 - Focusing on current path from requirements to code to production - I like to keep that view in mind, regards quality.
