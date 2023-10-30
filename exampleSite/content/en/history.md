@@ -52,7 +52,7 @@ January 2022 — September 2022
 * Azure pipeline development for CI test runs and reporting.
 * Support for Scrummaster on introducing Agile processes, including the business side.
 
-## Quality Engineering Consultant at CGI
+## Lead SDET/BDD Strategist at CGI
 November 2020 — October 2021
 >Project: BDD-driven project for a Flutter-based banking app, utilising "Backend for Frontend" (BFF) to organize the microservice architectures and coordinate functionality across the system (including third-party API's).
 * Lead SDET across 4 Scrum teams.
