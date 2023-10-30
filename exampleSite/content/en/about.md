@@ -9,7 +9,8 @@ Since 1997 I have regularly done testing contract work, covering QA/Test Managen
 ## The services
 
 - Test automation framework implementations.
-- Consultancy advice on testing process within the CI/CD pipelines.
+- Guidance on testing process within the CI/CD pipelines.
+- Cross-team testing strategies.
 - Accessibility audits for web and mobile app.
 
 ## Approach
@@ -21,5 +22,5 @@ Since 1997 I have regularly done testing contract work, covering QA/Test Managen
 - I choose the right tools for the project, I am not married to any tools - instantly choosing the familiar is common trap.
 - I mentor others - either by arrangement or when I am in a Lead position.
 - I can advise ways on working based on years of practical experience
-- I never ponder of how many ways a project could fail, only on ways to avoid those fails - negativity is not in my nature.
+- I never ponder of how many ways a project could fail, only on ways to avoid those fails.
 
