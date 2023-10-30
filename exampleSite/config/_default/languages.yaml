@@ -6,11 +6,11 @@ en:
   title: "Quality engineering"
   description: "Quality engineering"
   params:
-    ### accessibility ###
-    # accessibility:
-    #   skip_text: "Skip to content"
-    #   help_text: "Accessibility Statement"
-    #   help_url: "/accessibilitystatement/"
+    ## accessibility ###
+    accessibility:
+      skip_text: "Skip to content"
+      help_text: "Accessibility Statement"
+      help_url: "/accessibilitystatement/"
     ### calls to action ###
     main_cta:
       text: "Book an intro meeting"
