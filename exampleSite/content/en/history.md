@@ -17,9 +17,8 @@ I combine the disciplines of test engineering, DevOps, exploratory testing, test
 * Agile, Scrum, BDD, and Kanban project experience.
 
 # Timeline
-
-## Accessibility Specialist at jaffamonkey Ltd
-
+## Service-based Work
+### Accessibility Specialist at jaffamonkey Ltd
 Providing Accessibility audit service for startups following compliance process, covering web and mobile apps.Clients is mostly health app startups who are looking for NHS approval. The audit comprises of manual and automated activities commonly covering WCAG 2.2 Level AA (alongside UAAG 2.0 for additional mobile-specific coverage). I also provide clients with tools such as screenreader test automation and CI (a11y) tool integrations, with ready-to-go full setups, along with a final Accessibility Statement.
 
 >Client 1: A multi-tenant platform to collaborate and create/share content with partners and stakeholders across different healthcare organisations.
@@ -34,8 +33,9 @@ Providing Accessibility audit service for startups following compliance process,
 
 >Client 6: A software enables businesses and organisations with complex workflow needs to efficiently store, manage, distribute, and re-use digital files.
 
-## Lead SDET at bet365
-December 2022 — 
+## Contract Work
+### Lead SDET at bet365
+December 2022 — October 2023
 > Project: Rework of Android app and new iOS app version
 * Test framework proofs of concept for UI/API testing, for  Android, iOS and Web apps (migration from Appium/Selenium)
 * Espresso/Kotlin test framework & test development
@@ -43,7 +43,7 @@ December 2022 —
 * Skills transfer to test teams
 * Bash shell script development for ease of build test setup and test run on local device or Saucelabs device cloud.
 
-## Lead SDET and Quality Assurance at Ceta Insurance Ltd
+### Lead SDET and Quality Assurance at Ceta Insurance Ltd
 January 2022 — September 2022
 >Project: Major refactoring web projects across the Ceta Insurance brand
 * High level test automation strategies
@@ -52,7 +52,7 @@ January 2022 — September 2022
 * Azure pipeline development for CI test runs and reporting.
 * Support for Scrummaster on introducing Agile processes, including the business side.
 
-## Lead SDET/BDD Strategist at CGI
+### Lead SDET/BDD Strategist at CGI
 November 2020 — October 2021
 >Project: BDD-driven project for a Flutter-based banking app, utilising "Backend for Frontend" (BFF) to organize the microservice architectures and coordinate functionality across the system (including third-party API's).
 * Lead SDET across 4 Scrum teams.
@@ -68,7 +68,7 @@ November 2020 — October 2021
 * Leading app testing effort across teams
 * Mentoring  test engineers
 
-## Quality Assurance Specialist at DocComs
+### Quality Assurance Specialist at DocComs
 April 2020 — August 2020
 >Project: Mobile app startup project, aimed at improving communication between doctors about patients. 
 * Responsible for overall Quality assurance
@@ -78,51 +78,51 @@ April 2020 — August 2020
 * Implementing SonarQube for code-level security testing. 
 * Implementing Specflow as part of drive towards BDD approach.
 
-## Lead SDET at Engine | Transformation
+### Lead SDET at Engine | Transformation
 June 2019 — October 2019
 >Project: A feature-rich civil service training and career development web and mobile app (Ruby-on-Rails).
 
-## Lead AI Quality Engineer at Tele2
+### Lead AI Quality Engineer at Tele2
 September 2018 — March 2019
 >Project: Custom Mobile AI Chatbot, developed with Python and using the IBM Watson service.
 
-## Lead SDET at Transform UK
+### Lead SDET at Transform UK
 June 2017 — July 2018
 >Project: Drupal/NodeJS app to manage partnerships between businesses and local authorities.
 
-## Lead SDET at i2N
+### Lead SDET at i2N
 December 2016 — April 2017
 >Project: AngularJS web/mobile application to manage nationwide young offender placements.
 
-## Lead SDET at Transform UK
+### Lead SDET at Transform UK
 June 2016 — December 2016
 >Project: Java/AngularJS application for NHS Training and Education management system.
 
-## Lead SDET at Wowcher
+### Lead SDET at Wowcher
 January 2016 — April 2016
 >Project: AngularJS/Node app for voucher management and sales.
 
-## Lead SDET at TNT (Netherlands), 
+### Lead SDET at TNT (Netherlands), 
 July 2015 — November 2015
 >Project: AngularJS web app aimed at improving user experience for TNT customers.
 
-## Lead SDET at Hiveworks
+### Lead SDET at Hiveworks
 March 2015 — June 2015
 >Project: Drupal/Node/ElasticSearch CMS web application, aimed at providing content for external users, and means to manage content for Orange brand teams.
 
-## Lead SDET at Transform UK
+### Lead SDET at Transform UK
 December 2015 — March 2015
 >Project: Symfony2 (PHP) application for a Civil Service Resourcing job application management.
 
-## Lead SDET at Transform UK
+### Lead SDET at Transform UK
 September 2013 — November 2014
 >Project: PHP/AngularJS application for OPG (Office of the Public Guardian) case and task management system, for customers seeking power of attorney.
 
-## Test Manager at KPMG
+### Test Manager at KPMG
 April 2011 — December 2012
 >Project: Multiple C# web-based tax, finance and public sector projects.
 
-## Test Manager at Digital Jigsaw
+### Test Manager at Digital Jigsaw
 February 2011 — April 2011
 >Project: MyVodafone customer account app (with dynamic hotspot locator/connector) for Android, iPhone and Blackberry.
 
@@ -141,4 +141,4 @@ Azure, AWS, TravisCI, Jenkins, GitHub, BitBucket, TFS, VMWare, VirtualBox, Docke
 Dart, Ruby on Rails, Angular, Node, React, Spring, Drupal, Symfony2, Zend2, MVC
 
 # Qualifications
-BTEC HND Computing
+BTEC HND Computing (Prince 2, SSADM, C++, COBOL, Computer Architecture, Busines Analysis)
