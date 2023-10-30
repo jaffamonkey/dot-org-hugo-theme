@@ -34,7 +34,7 @@ Providing Accessibility audit service for startups following compliance process,
 
 >Client 6: A software enables businesses and organisations with complex workflow needs to efficiently store, manage, distribute, and re-use digital files.
 
-## SDET Lead at bet365
+## Lead SDET at bet365
 December 2022 — 
 > Project: Rework of Android app and new iOS app version
 * Test framework proofs of concept for UI/API testing, for  Android, iOS and Web apps (migration from Appium/Selenium)
@@ -50,9 +50,9 @@ January 2022 — September 2022
 * Test framework PoC and implementation for UI and API testing (Cucumber/Playwright and RestSharp frameworks)
 * Load/Performance test and monitoring framework development for Production sites.
 * Azure pipeline development for CI test runs and reporting.
-* Support for Scrummaster on Agile process
+* Support for Scrummaster on introducing Agile processes, including the business side.
 
-## Lead SDET and Quality Assurance at CGI
+## Quality Engineering Consultant at CGI
 November 2020 — October 2021
 >Project: BDD-driven project for a Flutter-based banking app, utilising "Backend for Frontend" (BFF) to organize the microservice architectures and coordinate functionality across the system (including third-party API's).
 * Lead SDET across 4 Scrum teams.
