@@ -28,7 +28,7 @@ h1,
     color: var(--primary-400);
     // text-transform: uppercase;
     line-height: 112.2%;
-    font-size: 44px;
+    font-size: 38px;
     @media (min-width: $min-desktop) {
         line-height: 115%;
         font-size: 80px;
@@ -42,7 +42,7 @@ h2,
     color: var(--primary-400);
     text-transform: none;
     line-height: 120%;
-    font-size: 34px;
+    font-size: 32px;
     margin-block-start: 50px;
     margin-block-end: 30px;
     @media (min-width: $min-desktop) {
