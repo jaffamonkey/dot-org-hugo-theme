@@ -24,8 +24,7 @@
     "hugo-extended": "^0.117.0",
     "netlify-cli": "^16.5.1",
     "postcss": "^8.4.31",
-    "express": "latest",
-    "axios": "latest"
+    "postcss-cli": "^10.1.0"
   },
   "devDependencies": {
     "prettier": "^3.0.3"
