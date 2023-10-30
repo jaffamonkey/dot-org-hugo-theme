@@ -138,4 +138,4 @@ Azure, AWS, TravisCI, Jenkins, GitHub, BitBucket, TFS, VMWare, VirtualBox, Docke
 ## Development frameworks
 Dart, Ruby on Rails, Angular, Node, React, Spring, Drupal, Symfony2, Zend2, MVC
 # Qualifications
-BTEC HND Computing (Prince 2, SSADM, C++, COBOL, Computer Architecture, Busines Analysis)
+BTEC HND Computing (Prince, SSADM, C++, COBOL, Computer Architecture, Busines Analysis)
