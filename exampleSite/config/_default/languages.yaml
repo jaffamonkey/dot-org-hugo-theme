@@ -37,7 +37,7 @@ en:
       url: "/history/"
       weight: 2
       post: "Detail-oriented, and forward-thinking, with 27 years experience in the field of Quality."
-      parent: "about"
+      parent: "aboutme"
     - identifier: "testing"
       name: "Testing"
       url: "/qualityengineering/"
