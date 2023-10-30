@@ -5,7 +5,6 @@ description: Detail-oriented, and forward-thinking, with 27 years experience in 
 I combine the disciplines of test engineering, DevOps, exploratory testing, test management and quality assurance to provide a more rounded contribution than simply testing. 10 years total commercial experience of building test frameworks and coding API, UI and performance tests. Ensure maximum value, by ensuring tests are included in CI/CD pipelines. Expertise in challenging environments, and contributing improvements to the process of achieving testing goals and objectives. Frequently involved in DevOps and business decisions, and have mentored both technical and business members of team, to engage more with the quality process.
 
 # Highlights
-
 * Experience in test engineering in multiple languages
 * Leading teams in adopting quality as part of way of working.
 * Mentoring less experienced testers in test engineering.
@@ -127,7 +126,6 @@ February 2011 — April 2011
 >Project: MyVodafone customer account app (with dynamic hotspot locator/connector) for Android, iPhone and Blackberry.
 
 _Employment history 1997-2010 is available upon request_
-
 # Technical skills
 ## Test frameworks
 Jest, Cucumber, Nightwatch, Behave, Protractor, Behat, JUnit, Jasmine, WebdriverIO, CasparJS, PHPUnit, Mink, Fitnesse, Selenium
@@ -139,6 +137,5 @@ JMeter, Artillery, OWASP ZAP, Pa11y, Superagent
 Azure, AWS, TravisCI, Jenkins, GitHub, BitBucket, TFS, VMWare, VirtualBox, Docker, Vagrant
 ## Development frameworks
 Dart, Ruby on Rails, Angular, Node, React, Spring, Drupal, Symfony2, Zend2, MVC
-
 # Qualifications
 BTEC HND Computing (Prince 2, SSADM, C++, COBOL, Computer Architecture, Busines Analysis)
