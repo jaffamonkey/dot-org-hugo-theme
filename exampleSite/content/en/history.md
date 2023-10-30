@@ -16,7 +16,7 @@ I combine the disciplines of test engineering, DevOps, exploratory testing, test
 * Introducing non-functional testing as standard practice.
 * Agile, Scrum, BDD, and Kanban project experience.
 
-# Employment History
+# Timeline
 
 ## Accessibility Specialist at jaffamonkey Ltd
 
