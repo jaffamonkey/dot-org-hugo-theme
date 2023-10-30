@@ -26,6 +26,12 @@ en:
       name: "About"
       url: "/about/"
       weight: 1
+      - identifier: "history"
+      name: "Career history"
+      url: "/history/"
+      weight: 1
+           post: "Testing strategies to help you implement new tools and approaches across teams."
+      parent: "about"
     - identifier: "testing"
       name: "Testing"
       url: "/qualityengineering/"

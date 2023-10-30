@@ -1,4 +1,7 @@
-> Detail-oriented, reliable, and forward-thinking, with 20 years experience in the field of Quality.
+---
+title: Career history
+description: Detail-oriented, and forward-thinking, with 27 years experience in the field of Quality.
+---
 I combine the disciplines of test engineering, DevOps, exploratory testing, test management and quality assurance to provide a more rounded contribution than simply testing. 10 years total commercial experience of building test frameworks and coding API, UI and performance tests. Ensure maximum value, by ensuring tests are included in CI/CD pipelines. Expertise in challenging environments, and contributing improvements to the process of achieving testing goals and objectives. Frequently involved in DevOps and business decisions, and have mentored both technical and business members of team, to engage more with the quality process.
 
 # Highlights
