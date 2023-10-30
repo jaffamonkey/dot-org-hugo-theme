@@ -22,14 +22,20 @@ en:
   ### example menu showing children ###
   menu:
     main:
+    - identifier: "aboutme"
+      name: "About"
+      url: "/aboutme/"
+      weight: 1
     - identifier: "about"
       name: "About"
       url: "/about/"
+      post: "More about me."
+      parent: "aboutme"
       weight: 1
     - identifier: "history"
       name: "Career history"
       url: "/history/"
-      weight: 1
+      weight: 2
       post: "Detail-oriented, and forward-thinking, with 27 years experience in the field of Quality."
       parent: "about"
     - identifier: "testing"
