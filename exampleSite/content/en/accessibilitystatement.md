@@ -1,10 +1,9 @@
 ---
 title: Accessibility statement
-description: Get an audit at any point in your web and mobile app projects
+description: Accessibility statement for _jaffamonkey.com.
 ---
-# Accessibility statement for _jaffamonkey.com_
 
-This accessibility statement applies to jaffamonkey Ltd website.
+> **This accessibility statement applies to jaffamonkey Ltd website.**
 
 This website is run by jaffamonkey Ltd. We want as many people as possible to be able to use this website. For example, that means you should be able to:
 
