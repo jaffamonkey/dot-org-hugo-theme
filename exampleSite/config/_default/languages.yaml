@@ -26,11 +26,11 @@ en:
       name: "About"
       url: "/about/"
       weight: 1
-      - identifier: "history"
+    - identifier: "history"
       name: "Career history"
       url: "/history/"
       weight: 1
-           post: "Testing strategies to help you implement new tools and approaches across teams."
+      post: "Detail-oriented, and forward-thinking, with 27 years experience in the field of Quality."
       parent: "about"
     - identifier: "testing"
       name: "Testing"
