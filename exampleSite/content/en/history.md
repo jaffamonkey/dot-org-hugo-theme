@@ -18,7 +18,7 @@ I combine the disciplines of test engineering, DevOps, exploratory testing, test
 # Timeline
 ## Service-based Work
 ### Accessibility Specialist at jaffamonkey Ltd
-Providing Accessibility audit service for startups following compliance process, covering web and mobile apps.Clients is mostly health app startups who are looking for NHS approval. The audit consists of manual and automated activities commonly covering WCAG 2.2 Level AA (alongside UAAG 2.0 for additional mobile-specific coverage). I also provide clients with tools such as screenreader test automation and CI (a11y) tool integrations, with ready-to-go full setups, along with a final Accessibility Statement.
+Providing Accessibility audit service for startups following compliance process, covering web and mobile apps. Clients are mostly health app startups who are following compliance requirements required for NHS approval. The audit consists of manual and automated activities commonly covering WCAG 2.2 Level AA (alongside UAAG 2.0 for additional mobile-specific coverage). I also provide clients with tools such as screenreader test automation and CI (a11y) tool integrations, with ready-to-go full setups, along with a final Accessibility Statement.
 
 >Client 1: A multi-tenant platform to collaborate and create/share content with partners and stakeholders across different healthcare organisations.
 
