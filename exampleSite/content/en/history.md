@@ -128,6 +128,8 @@ February 2011 — April 2011
 
 _Employment history 1997-2010 is available upon request_
 # Technical skills
+## Programming languages
+Python, Kotlin, TypeScript, JavaScript, C#, Java, Swift, Bash, PHP, Ruby
 ## Test frameworks
 Jest, Cucumber, Nightwatch, Behave, Protractor, Behat, JUnit, Jasmine, WebdriverIO, CasparJS, PHPUnit, Mink, Fitnesse, Selenium, Playwright.
 ## Mobile test frameworks
