@@ -129,9 +129,9 @@ February 2011 — April 2011
 _Employment history 1997-2010 is available upon request_
 # Technical skills
 ## Test frameworks
-Jest, Cucumber, Nightwatch, Behave, Protractor, Behat, JUnit, Jasmine, WebdriverIO, CasparJS, PHPUnit, Mink, Fitnesse, Selenium
+Jest, Cucumber, Nightwatch, Behave, Protractor, Behat, JUnit, Jasmine, WebdriverIO, CasparJS, PHPUnit, Mink, Fitnesse, Selenium, Playwright.
 ## Mobile test frameworks
-Appium, Flutter Driver, XCUITest, XCTest, Calabash, Browserstack, Kobiton, Xamarin UITests
+Appium, Flutter Driver, XCUITest, XCTest, Calabash, Browserstack, Kobiton, Xamarin UITests, Espresso.
 ## Other Test Tools
 JMeter, Artillery, OWASP ZAP, Pa11y, Superagent
 ## DevOps
