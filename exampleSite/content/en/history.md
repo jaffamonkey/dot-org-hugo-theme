@@ -18,7 +18,7 @@ I combine the disciplines of test engineering, DevOps, exploratory testing, test
 # Timeline
 ## Service-based Work
 ### Accessibility Specialist at jaffamonkey Ltd
-Providing Accessibility audit service for startups following compliance process, covering web and mobile apps.Clients is mostly health app startups who are looking for NHS approval. The audit comprises of manual and automated activities commonly covering WCAG 2.2 Level AA (alongside UAAG 2.0 for additional mobile-specific coverage). I also provide clients with tools such as screenreader test automation and CI (a11y) tool integrations, with ready-to-go full setups, along with a final Accessibility Statement.
+Providing Accessibility audit service for startups following compliance process, covering web and mobile apps.Clients is mostly health app startups who are looking for NHS approval. The audit consists of manual and automated activities commonly covering WCAG 2.2 Level AA (alongside UAAG 2.0 for additional mobile-specific coverage). I also provide clients with tools such as screenreader test automation and CI (a11y) tool integrations, with ready-to-go full setups, along with a final Accessibility Statement.
 
 >Client 1: A multi-tenant platform to collaborate and create/share content with partners and stakeholders across different healthcare organisations.
 
@@ -36,11 +36,12 @@ Providing Accessibility audit service for startups following compliance process,
 ### Lead SDET at bet365
 December 2022 — October 2023
 > Project: Rework of Android app and new iOS app version
-* Test framework proofs of concept for UI/API testing, for  Android, iOS and Web apps (migration from Appium/Selenium)
+* Test framework proofs of concept for UI/API testing for Android, iOS and Web apps (migration from Appium/Selenium frameworks)
 * Espresso/Kotlin test framework & test development
 * iOS Swift/XCUITest test framework & test development
 * Skills transfer to test teams
 * Bash shell script development for ease of build test setup and test run on local device or Saucelabs device cloud.
+* Azure pipeline development for CI test runs and reporting.
 
 ### Lead SDET and Quality Assurance at Ceta Insurance Ltd
 January 2022 — September 2022
