@@ -24,4 +24,4 @@ Since 1997 I have regularly done testing contract work, covering QA/Test Managen
 - I can advise ways on working based on years of practical experience
 - I never ponder of how many ways a project could fail, only on ways to avoid those fails.
 
-![This is alt text, please remember to set it](https://jaffamonkey.com/img/clients.png)
+![Client history](https://jaffamonkey.com/img/clients.png)
