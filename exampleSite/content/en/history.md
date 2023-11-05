@@ -15,7 +15,7 @@ I combine the disciplines of test engineering, DevOps, exploratory testing, test
 * Extensive experience in web and mobile test automation.
 * Working with Development and DevOps teams to improve CI.
 * Involving the business more directly with quality process.
-* Proactively promoting quality as means to measure success.#
+* Proactively promoting quality as means to measure success.
 * Introducing non-functional testing as standard practice.
 * Agile, Scrum, BDD, and Kanban project experience.
 
