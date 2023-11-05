@@ -4,7 +4,7 @@ description: Quality Assurance / Test Engineering / Test Architect / Test Coachi
 ---
 ## What I do
 
-Since 1997 I have regularly done testing contract work, covering QA/Test Managenent to Quality/Test Engineering. Over the last few years I have been focusing on providing more tailored services. 
+Since 1997 I have regularly done testing contract work, covering QA/Test Managenent to Quality/Test Engineering.
 
 ## The services
 
