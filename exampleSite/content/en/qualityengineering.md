@@ -15,10 +15,10 @@ images: ["https://via.placeholder.com/250x200/d9d9d9/000000"]
 - Integrating testing into CI/CD pipelines.
 
 ## Test development in line with development cycle.
-```-Every test should be able to provide the same answer of "Yes", at any point, to the question "Are you useful?".
+-Every test should be able to provide the same answer of "Yes", at any point, to the question "Are you useful?".
 - Starting lean with test framework is logical, wait for test developmemnt to highlight possible requirement.
 - Native tools always preferred, firstly for synergy with development and secondly performance and scope larger.
-- Test frameworks should be part of app codebase.```
+- Test frameworks should be part of app codebase.
 
 
 <!-- {{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}} -->
