@@ -11,11 +11,3 @@ description: Quality engineering in the pipeline.
 25 years providing quality services on well over 100 projects, for 60+ clients. You can benefit from a wealth of technical skills and project expertise, delivering quality improvements to entire project pipeline.
 
 I am adept at introducing quality measures into projects, sometimes within a few days if a deadine demands it.
-
-## Primary benefits of Quality Engineering
-
-- Quality assurance and testing across the SDLC. 
-- Helping teams standardize the application of quality requirement.
-- Adopt tooling to increase the efficiency of the process. 
-- Automating tests to eliminate issues related to manual testing.
-- Integrating testing into CI/CD pipelines.
