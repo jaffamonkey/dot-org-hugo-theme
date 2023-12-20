@@ -13,12 +13,11 @@ people with hearing loss or who are deaf
 - those with learning difficulties, like dyslexia, those who are autistic or have ADHD
 
 > What are the four principles of content accessibility (POUR)?
-```
-Perceivable
-Operable 
-Understandable
-Robust 
-```
+- Perceivable
+- Operable 
+- Understandable
+- Robust 
+
 # Perceivable
 ## Relevant senses
 - sight
