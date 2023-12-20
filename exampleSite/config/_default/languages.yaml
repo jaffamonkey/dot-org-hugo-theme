@@ -69,6 +69,12 @@ en:
       url: "/accessibilityaudit/"
       weight: 1
       post: "Accessibility audit."
+      parent: "accessibility"    
+    - identifier: "wcag-principles"
+      name: "WCAG principles"
+      url: "/wcagprinciples/"
+      weight: 2
+      post: "WCAG principles"
       parent: "accessibility"
     # - identifier: "faq"
     #   name: "FAQs"

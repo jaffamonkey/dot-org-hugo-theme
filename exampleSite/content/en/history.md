@@ -49,7 +49,7 @@ December 2022 — October 2023
 
 ### Lead SDET and Quality Assurance at Ceta Insurance Ltd
 January 2022 — September 2022
->Project: Major refactoring web projects across the Ceta Insurance brand
+> Project: Major refactoring web projects across the Ceta Insurance brand
 * High level test automation strategies
 * Test framework PoC and implementation for UI and API testing (Cucumber/Playwright and RestSharp frameworks)
 * Load/Performance test and monitoring framework development for Production sites.
@@ -58,7 +58,7 @@ January 2022 — September 2022
 
 ### Lead SDET/BDD Strategist at CGI
 November 2020 — October 2021
->Project: BDD-driven project for a Flutter-based banking app, utilising "Backend for Frontend" (BFF) to organize the microservice architectures and coordinate functionality across the system (including third-party API's).
+> Project: BDD-driven project for a Flutter-based banking app, utilising "Backend for Frontend" (BFF) to organize the microservice architectures and coordinate functionality across the system (including third-party API's).
 * Lead SDET across 4 Scrum teams.
 * Test framework PoC and implementation
 * High level test automation strategies for App (Flutter/Dart) and API (C#) testing in BDD context
@@ -74,7 +74,7 @@ November 2020 — October 2021
 
 ### Quality Assurance Specialist at DocComs
 April 2020 — August 2020
->Project: Mobile app startup project, aimed at improving communication between doctors about patients. 
+> Project: Mobile app startup project, aimed at improving communication between doctors about patients. 
 * Responsible for overall Quality assurance
 * Coding API and App UI test frameworks for testing Android and iOS version of app (C#/Appium/XCUITest/XCTest).
 * Browserstack integration for cross-device testing.
@@ -84,51 +84,51 @@ April 2020 — August 2020
 
 ### Lead SDET at Engine | Transformation
 June 2019 — October 2019
->Project: A feature-rich civil service training and career development web and mobile app (Ruby-on-Rails).
+> Project: A feature-rich civil service training and career development web and mobile app (Ruby-on-Rails).
 
 ### Lead AI Quality Engineer at Tele2
 September 2018 — March 2019
->Project: Custom Mobile AI Chatbot, developed with Python and using the IBM Watson service.
+> Project: Custom Mobile AI Chatbot, developed with Python and using the IBM Watson service.
 
 ### Lead SDET at Transform UK
 June 2017 — July 2018
->Project: Drupal/NodeJS app to manage partnerships between businesses and local authorities.
+> Project: Drupal/NodeJS app to manage partnerships between businesses and local authorities.
 
 ### Lead SDET at i2N
 December 2016 — April 2017
->Project: AngularJS web/mobile application to manage nationwide young offender placements.
+> Project: AngularJS web/mobile application to manage nationwide young offender placements.
 
 ### Lead SDET at Transform UK
 June 2016 — December 2016
->Project: Java/AngularJS application for NHS Training and Education management system.
+> Project: Java/AngularJS application for NHS Training and Education management system.
 
 ### Lead SDET at Wowcher
 January 2016 — April 2016
->Project: AngularJS/Node app for voucher management and sales.
+> Project: AngularJS/Node app for voucher management and sales.
 
 ### Lead SDET at TNT (Netherlands), 
 July 2015 — November 2015
->Project: AngularJS web app aimed at improving user experience for TNT customers.
+> Project: AngularJS web app aimed at improving user experience for TNT customers.
 
 ### Lead SDET at Hiveworks
 March 2015 — June 2015
->Project: Drupal/Node/ElasticSearch CMS web application, aimed at providing content for external users, and means to manage content for Orange brand teams.
+> Project: Drupal/Node/ElasticSearch CMS web application, aimed at providing content for external users, and means to manage content for Orange brand teams.
 
 ### Lead SDET at Transform UK
 December 2015 — March 2015
->Project: Symfony2 (PHP) application for a Civil Service Resourcing job application management.
+> Project: Symfony2 (PHP) application for a Civil Service Resourcing job application management.
 
 ### Lead SDET at Transform UK
 September 2013 — November 2014
->Project: PHP/AngularJS application for OPG (Office of the Public Guardian) case and task management system, for customers seeking power of attorney.
+> Project: PHP/AngularJS application for OPG (Office of the Public Guardian) case and task management system, for customers seeking power of attorney.
 
 ### Test Manager at KPMG
 April 2011 — December 2012
->Project: Multiple C# web-based tax, finance and public sector projects.
+> Project: Multiple C# web-based tax, finance and public sector projects.
 
 ### Test Manager at Digital Jigsaw
 February 2011 — April 2011
->Project: MyVodafone customer account app (with dynamic hotspot locator/connector) for Android, iPhone and Blackberry.
+> Project: MyVodafone customer account app (with dynamic hotspot locator/connector) for Android, iPhone and Blackberry.
 
 _Employment history 1997-2010 is available upon request_
 # Technical skills
