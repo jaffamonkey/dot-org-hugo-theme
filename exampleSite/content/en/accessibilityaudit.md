@@ -8,6 +8,17 @@ The audit targets a wide range of disabilities, including visual, auditory, phys
 
 Professionally evaluating the website's accessibility level is a key step in web accessibility and can be performed at any stage of a web or mobile app project.
 
+## Advantages
+
+Our services are cost-effective and efficient, ensuring that businesses of all sizes can afford and benefit from our expertise. 
+
+Additionally, our in-depth knowledge and experience in web accessibility and WCAG compliance allow us to deliver exceptional results and ensure that our clients' digital content is accessible to all users. 
+
+Furthermore, our focus on DevOps integration is a unique aspect of our consultancy services. 
+
+This integration of accessibility practises into the development workflow gives our clients a significant advantage in creating inclusive digital experiences.
+
+
 ## What you will get
 
 - A full accessibility review and test of web or mobile app against the WCAG 2.2 AA standard.
