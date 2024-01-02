@@ -14,3 +14,5 @@ You can benefit from a wealth of technical skills and project expertise, deliver
 
 I am adept at introducing quality measures into projects, sometimes within a few days if a deadine demands it.
 
+
+

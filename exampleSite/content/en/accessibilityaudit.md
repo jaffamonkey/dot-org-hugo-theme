@@ -2,6 +2,12 @@
 title: Accessbility Audit
 description: Get an audit at any point in your web and mobile app projects
 ---
+
+> Accessibility means more than putting things online.
+It means making your content and design clear and simple enough so that most people can use it without needing to adapt it, while supporting those who do need to adapt things.”
+GOV.UK (2019 - Understanding new accessibility
+requirements for public sector bodies)
+
 > Get an audit at any point in your project, and also get advice with pushing accessibility as part of your way of working, from design to code to production
 
 The audit targets a wide range of disabilities, including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities.
