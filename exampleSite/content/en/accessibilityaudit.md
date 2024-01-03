@@ -39,13 +39,16 @@ This integration of accessibility practises into the development workflow gives 
 
 {{< columns >}}
 {{< column >}}
-![Coloplast](https://jaffamonkey.com/img/coloplast.png) ![HealthwaveHub](https://jaffamonkey.com/img/healthwave.png)
+![Coloplast](https://jaffamonkey.com/img/coloplast.png) 
+![HealthwaveHub](https://jaffamonkey.com/img/healthwave.png)
 {{< /column >}}
 {{< column >}}
-![Infervision](https://jaffamonkey.com/img/infervision.png) ![TympaHealth](https://jaffamonkey.com/img/tympahealth.jpg)
+![Infervision](https://jaffamonkey.com/img/infervision.png) 
+![TympaHealth](https://jaffamonkey.com/img/tympahealth.jpg)
 {{< /column >}}
 {{< column >}}
-![ZoomDoc](https://jaffamonkey.com/img/zoomdoc.jpg) ![Medialogix](https://jaffamonkey.com/img/medialogix.png)
+![ZoomDoc](https://jaffamonkey.com/img/zoomdoc.jpg) 
+![Medialogix](https://jaffamonkey.com/img/medialogix.png)
 {{< /column >}}
 {{< /columns >}}
 
