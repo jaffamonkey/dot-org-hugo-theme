@@ -70,9 +70,9 @@ en:
       weight: 1
       post: "Accessibility audit."
       parent: "accessibility"    
-    - identifier: "accessibility-implementation.md"
-      name: "Accessibility implementation"
-      url: "/accessibilityimplementation.md/"
+    - identifier: "accessibility-strategy"
+      name: "Accessibility strategy"
+      url: "/accessibilitystrategy/"
       weight: 2
       post: "Accessibility audit."
       parent: "accessibility"    

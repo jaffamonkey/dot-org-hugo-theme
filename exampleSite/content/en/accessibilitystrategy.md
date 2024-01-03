@@ -1,5 +1,5 @@
 ---
-title: Accessbility Implementation
+title: Accessbility Strategy
 description: Make Accessibility an intgeral part of your business
 ---
 
@@ -19,3 +19,4 @@ The global market of people with disabilities is over 1 billion people with a sp
 # Minimize Legal Risk
 Many countries have laws requiring digital accessibility, and the issue is of increased legal concern.
 
+<!-- {{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}} -->

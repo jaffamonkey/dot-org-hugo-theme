@@ -37,5 +37,4 @@ This integration of accessibility practises into the development workflow gives 
 
 ![Lighthouse results example](https://jaffamonkey.com/img/lighthouse.png)
 
-<!-- {{< button link="https://jaffamonkey.com/faq/" text="Accessibility FAQ" >}} -->
 <!-- {{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}} -->
