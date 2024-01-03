@@ -34,16 +34,6 @@ worked well but image collages were considered distracting.
 * For autistic web users everything is equally important and they struggled
 to distinguish between foreground and background.
 {{< /card >}}
-{{< card >}}
-> Symmetry in design
-* There was a general preference for symmetry in design and for clearly defined sections
-including images having clear boarders.
-* Symmetrically designed webpages were considered 
-{{< /card >}}
-{{< card >}}
-> Logical ordering
-* All users expected some logical ordering of information on webpages – for example,importance (where the most important information is on top), alphabetical (lists), or chronological (in forums).
-{{< /card >}}
 {{< /cards >}}
 
 
