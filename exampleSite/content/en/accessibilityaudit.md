@@ -35,14 +35,30 @@ This integration of accessibility practises into the development workflow gives 
 
 > Treat an audit as a startpoint, to integrating accessibility checks earlier in the development lifecycle.
 
-Audited clients
+## Recent clients
 
+{{< columns >}}
+{{< column >}}
 ![Coloplast](https://jaffamonkey.com/img/coloplast.png)
-![Coloplast](https://jaffamonkey.com/img/minion.png)
+{{< /column >}}
+{{< column >}}
 ![HealthwaveHub](https://jaffamonkey.com/img/healthwave.png)
+{{< /column >}}
+{{< column >}}
 ![Infervision](https://jaffamonkey.com/img/infervision.png)
-![TympaHealth](https://jaffamonkey.com/img/tympaHealth.jpg)
-![ZoomDoc](https://jaffamonkey.com/img/zoomdoc.jpg)
+{{< /column >}}
+{{< /columns >}}
 
+{{< columns >}}
+{{< column >}}
+![TympaHealth](https://jaffamonkey.com/img/tympaHealth.jpg)
+{{< /column >}}
+{{< column >}}
+![ZoomDoc](![ZoomDoc](https://jaffamonkey.com/img/zoomdoc.jpg))
+{{< /column >}}
+{{< column >}}
+![Fotoware](https://jaffamonkey.com/img/fotoware.png)
+{{< /column >}}
+{{< /columns >}}
 
 <!-- {{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}} -->
