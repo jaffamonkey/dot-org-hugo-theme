@@ -37,6 +37,7 @@ This integration of accessibility practises into the development workflow gives 
 
 ## Recent clients
 
+{{< responsive_table >}}
 | ![Coloplast](https://jaffamonkey.com/img/coloplast.png) | ![HealthwaveHub](https://jaffamonkey.com/img/healthwave.png) | ![Infervision](https://jaffamonkey.com/img/infervision.png) |
 | ![TympaHealth](https://jaffamonkey.com/img/tympaHealth.jpg) | ![ZoomDoc](![ZoomDoc](https://jaffamonkey.com/img/zoomdoc.jpg)) | e![Fotoware](https://jaffamonkey.com/img/fotoware.jpg) |
 {{< /responsive_table >}}

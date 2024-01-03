@@ -85,7 +85,7 @@ en:
     - identifier: "wcag-principles"
       name: "WCAG principles"
       url: "/wcagprinciples/"
-      weight: 3
+      weight: 4
       post: "WCAG principles"
       parent: "accessibility"
     # - identifier: "faq"
