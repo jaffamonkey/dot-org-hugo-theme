@@ -70,10 +70,16 @@ en:
       weight: 1
       post: "Accessibility audit."
       parent: "accessibility"    
+    - identifier: "accessibility-implementation.md"
+      name: "Accessibility implementation"
+      url: "/accessibilityimplementation.md/"
+      weight: 2
+      post: "Accessibility audit."
+      parent: "accessibility"    
     - identifier: "wcag-principles"
       name: "WCAG principles"
       url: "/wcagprinciples/"
-      weight: 2
+      weight: 3
       post: "WCAG principles"
       parent: "accessibility"
     # - identifier: "faq"
