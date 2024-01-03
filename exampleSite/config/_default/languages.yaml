@@ -65,28 +65,28 @@ en:
       url: "/accessibilityaudit/"
       weight: 3
     - identifier: "accessibility-audit"
-      name: "Accessibility audit"
+      name: "Accessibility Audit"
       url: "/accessibilityaudit/"
       weight: 1
-      post: "Accessibility audit."
+      post: "Audit."
       parent: "accessibility"    
     - identifier: "accessibility-strategy"
       name: "Accessibility strategy"
       url: "/accessibilitystrategy/"
       weight: 2
-      post: "Accessibility audit."
+      post: "Strategy"
       parent: "accessibility"    
-    - identifier: "wcag-principles"
+    - identifier: "autism"
+      name: "Autism"
+      url: "/autism/"
+      weight: 3
+      post: "Accessibility and autism"
+      parent: "accessibility"
+    -  identifier: "wcag-principles"
       name: "WCAG principles"
       url: "/wcagprinciples/"
       weight: 3
       post: "WCAG principles"
-      parent: "accessibility"
-    - identifier: "autism"
-      name: "Accessibility and autism"
-      url: "/autism/"
-      weight: 4
-      post: "Accessibility and autism"
       parent: "accessibility"
     # - identifier: "faq"
     #   name: "FAQs"
