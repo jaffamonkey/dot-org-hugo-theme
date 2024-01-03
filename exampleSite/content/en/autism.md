@@ -4,7 +4,7 @@ Web designers need to think more about how people use sites, not just making it 
 
 {{< cards count=3 >}}
 {{< card >}}
-## General preferences
+>General preferences
 * Autism is a spectrum. Not everyone who is autistic prefers the same things.
 * Many autistic people also have associated otherconditions, like Dyslexia or Learning Difficulties thatimpact on their preferences. Many do not have other conditions.
 * Other demographic factors can also impact people’s references – such as male/female, children/adults, socio economic factors, and familiarity with technology.
@@ -12,7 +12,7 @@ Web designers need to think more about how people use sites, not just making it 
 * These differences can make it challenging to design for all autistic web users.{{< spacer >}}
 {{< /card >}}
 {{< card >}}
-# Autistic users preferences
+> Autistic users preferences
 * Muted colours
 * Background images
 * Symmetry in design
@@ -23,19 +23,19 @@ Web designers need to think more about how people use sites, not just making it 
 * Customisation
 {{< /card >}}
 {{< card >}}
-# Muted colours
+> Muted colours
 * All users expressed a preference for muted, soft colours on web pages,
 while large areas of bright colours were considered distracting.
 {{< /card >}}
 {{< card >}}
-# Background images 
+> Background images 
 * Background images have to have a purpose. Geometric shapes in muted colours
 worked well but image collages were considered distracting.
 * For autistic web users everything is equally important and they struggled
 to distinguish between foreground and background.
 {{< /card >}}
 {{< card >}}
-# Symmetry in design
+> Symmetry in design
 * There was a general preference for symmetry in design and for clearly defined sections
 including images having clear boarders.
 * Symmetrically designed webpages were considered {{< /card >}}
