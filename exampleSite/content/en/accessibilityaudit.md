@@ -37,19 +37,11 @@ This integration of accessibility practises into the development workflow gives 
 
 ## Recent clients
 
-{{< columns >}}
-{{< column >}}
-![Coloplast](https://jaffamonkey.com/img/coloplast.png) 
-![HealthwaveHub](https://jaffamonkey.com/img/healthwave.png)
-{{< /column >}}
-{{< column >}}
-![Infervision](https://jaffamonkey.com/img/infervision.png) 
-![TympaHealth](https://jaffamonkey.com/img/tympahealth.jpg)
-{{< /column >}}
-{{< column >}}
-![ZoomDoc](https://jaffamonkey.com/img/zoomdoc.jpg) 
-![Medialogix](https://jaffamonkey.com/img/medialogix.png)
-{{< /column >}}
-{{< /columns >}}
+* Coloplast
+* HealthwaveHub
+* Infervision
+* TympaHealth
+* ZoomDoc
+* Medialogix
 
 <!-- {{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}} -->
