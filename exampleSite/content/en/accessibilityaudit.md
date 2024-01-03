@@ -37,7 +37,7 @@ This integration of accessibility practises into the development workflow gives 
 
 Audited clients
 
-![Coloplast](https://jaffamonkey.com/img/images/coloplast.png)
+![Coloplast](https://jaffamonkey.com/img/coloplast.png)
 ![Coloplast](https://jaffamonkey.com/img/minion.png)
 ![HealthwaveHub](https://jaffamonkey.com/img/healthwave.png)
 ![Infervision](https://jaffamonkey.com/img/infervision.png)
