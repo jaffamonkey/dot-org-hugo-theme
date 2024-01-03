@@ -6,7 +6,7 @@ Other demographic factors can also impact people’s references, such as socio e
 
 These differences can make it challenging to design for all autistic web users.{{< spacer >}}
 
-{{< cards count=5 >}}
+{{< cards count=3 >}}
 {{< card >}}
 > Autistic users preferences
 * Muted colours
@@ -30,6 +30,20 @@ worked well but image collages were considered distracting.
 * For autistic web users everything is equally important and they struggled
 to distinguish between foreground and background.
 {{< /card >}}
+{{< card >}}
+> Symmetry in design
+* There was a general preference for symmetry in design and for clearly defined sections
+including images having clear boarders.
+* Symmetrically designed webpages were considered 
+{{< /card >}}
+{{< card >}}
+> Logical ordering
+* All users expected some logical ordering of information on webpages – for example,importance (where the most important information is on top), alphabetical (lists), or chronological (in forums).
+{{< /card >}}
+{{< /cards >}}
+
+
+{{< cards count=2 >}}
 {{< card >}}
 > Symmetry in design
 * There was a general preference for symmetry in design and for clearly defined sections
