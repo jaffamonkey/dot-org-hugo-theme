@@ -1,3 +1,7 @@
+---
+title: Accessbility and autism
+description: Accessbility and autism
+---
 Autism is a spectrum. Not everyone who is autistic prefers the same things.
 
 Many autistic people also have associated other conditions, like Dyslexia or Learning Difficulties thatimpact on their preferences. Many do not have other conditions.
