@@ -10,7 +10,7 @@ Other demographic factors can also impact people’s references, such as socio e
 
 These differences can make it challenging to design for all autistic web users.
 
-{{< cards count=3 >}}
+{{< cards count=2 >}}
 {{< card >}}
 > Autistic users preferences
 * Muted colours
@@ -21,11 +21,6 @@ These differences can make it challenging to design for all autistic web users.
 * No auto-playing movement
 * No surprises
 * Customisation
-{{< /card >}}
-{{< card >}}
-> Muted colours
-* All users expressed a preference for muted, soft colours on web pages,
-while large areas of bright colours were considered distracting.
 {{< /card >}}
 {{< card >}}
 > Background images 
