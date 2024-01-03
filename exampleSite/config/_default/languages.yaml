@@ -82,11 +82,11 @@ en:
       weight: 3
       post: "WCAG principles"
       parent: "accessibility"
-    - identifier: "wcag-principles"
+    - identifier: "autism"
       name: "Accessibility and autism"
       url: "/autism/"
       weight: 4
-      post: ""Accessibility and autism""
+      post: "Accessibility and autism"
       parent: "accessibility"
     # - identifier: "faq"
     #   name: "FAQs"
