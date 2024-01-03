@@ -38,7 +38,7 @@ This integration of accessibility practises into the development workflow gives 
 ## Recent clients
 
 {{< responsive_table >}}
-| ![Coloplast](https://jaffamonkey.com/img/coloplast.png) | ![HealthwaveHub](https://jaffamonkey.com/img/healthwave.png) | ![Infervision](https://jaffamonkey.com/img/infervision.png) | ![TympaHealth](https://jaffamonkey.com/img/tympaHealth.jpg) | ![ZoomDoc]([ZoomDoc](https://jaffamonkey.com/img/zoomdoc.jpg)) | ![Fotoware](https://jaffamonkey.com/img/fotoware.jpg) |
+| ![Coloplast](https://jaffamonkey.com/img/coloplast.png) | ![HealthwaveHub](https://jaffamonkey.com/img/healthwave.png) | ![Infervision](https://jaffamonkey.com/img/infervision.png) | ![TympaHealth](https://jaffamonkey.com/img/tympahealth.jpg) | ![ZoomDoc](https://jaffamonkey.com/img/zoomdoc.jpg) | ![Fotoware](https://jaffamonkey.com/img/fotoware.png) |
 {{< /responsive_table >}}
 
 <!-- {{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}} -->
