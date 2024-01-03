@@ -45,6 +45,4 @@ Audited clients
 ![ZoomDoc](https://jaffamonkey.com/img/zoomdoc.jpg)
 
 
-![Lighthouse results example](https://jaffamonkey.com/img/lighthouse.png)
-
 <!-- {{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}} -->
