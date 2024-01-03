@@ -34,7 +34,6 @@ worked well but image collages were considered distracting.
 * For autistic web users everything is equally important and they struggled
 to distinguish between foreground and background.
 {{< /card >}}
-{{< /cards >}}
 {{< card >}}
 # Symmetry in design
 * There was a general preference for symmetry in design and for clearly defined sections
