@@ -65,16 +65,16 @@ en:
       url: "/accessibilityaudit/"
       weight: 3
     - identifier: "accessibility-audit"
-      name: "Accessibility Audit"
+      name: "Audit"
       url: "/accessibilityaudit/"
       weight: 1
-      post: "Audit."
+      post: "Accessibility Audit"
       parent: "accessibility"    
     - identifier: "accessibility-strategy"
-      name: "Accessibility strategy"
+      name: "Strategy"
       url: "/accessibilitystrategy/"
       weight: 2
-      post: "Strategy"
+      post: "Accessibility strategy"
       parent: "accessibility"    
     - identifier: "autism"
       name: "Autism"
