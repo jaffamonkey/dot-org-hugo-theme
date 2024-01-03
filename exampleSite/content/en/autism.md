@@ -194,10 +194,6 @@ agitated.
 ## Non-textual formats
 
 ### Consider providing information in video format
-### Use visuals with the text to facilitate understanding
-### >Use icons to help users locate information faster
-
-### Consider providing information in video format
 * Consider providing information in video format with captions & transcripts
 * Visual users said that it was easier for them to process and remember information
 from video than from text only. Most users also found captions and transcripts for videos useful. 
@@ -210,14 +206,6 @@ locate required information on the page.
 * Use meaningful & memorable icons to help users find information on the page
 * Autistic users found icons helpful when scanning web pages for information, especially
 on busy text-heavy pages where there were many visually similar sections, e.g. laid-out in a grid.
-
-## Images
-
-Use simple images that can ## easily understood
-Use meaningful, relatable images that add value & clarity to the information on the page
-Limit the use of background images and decorative graphics
-Use photographs of people only if depicted people are relevant to the information
-Provide the ability to turn off decorative graphics & all images
 
 ## Images
 

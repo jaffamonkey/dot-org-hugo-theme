@@ -37,28 +37,8 @@ This integration of accessibility practises into the development workflow gives 
 
 ## Recent clients
 
-{{< columns >}}
-{{< column >}}
-![Coloplast](https://jaffamonkey.com/img/coloplast.png)
-{{< /column >}}
-{{< column >}}
-![HealthwaveHub](https://jaffamonkey.com/img/healthwave.png)
-{{< /column >}}
-{{< column >}}
-![Infervision](https://jaffamonkey.com/img/infervision.png)
-{{< /column >}}
-{{< /columns >}}
-
-{{< columns >}}
-{{< column >}}
-![TympaHealth](https://jaffamonkey.com/img/tympaHealth.jpg)
-{{< /column >}}
-{{< column >}}
-![ZoomDoc](![ZoomDoc](https://jaffamonkey.com/img/zoomdoc.jpg))
-{{< /column >}}
-{{< column >}}
-![Fotoware](https://jaffamonkey.com/img/fotoware.png)
-{{< /column >}}
-{{< /columns >}}
+| ![Coloplast](https://jaffamonkey.com/img/coloplast.png) | ![HealthwaveHub](https://jaffamonkey.com/img/healthwave.png) | ![Infervision](https://jaffamonkey.com/img/infervision.png) |
+| ![TympaHealth](https://jaffamonkey.com/img/tympaHealth.jpg) | ![ZoomDoc](![ZoomDoc](https://jaffamonkey.com/img/zoomdoc.jpg)) | e![Fotoware](https://jaffamonkey.com/img/fotoware.jpg) |
+{{< /responsive_table >}}
 
 <!-- {{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}} -->
