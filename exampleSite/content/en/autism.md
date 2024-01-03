@@ -8,7 +8,7 @@ Many autistic people also have associated other conditions, like Dyslexia or Lea
 
 Other demographic factors can also impact people’s references, such as socio economic factors, and familiarity with technology.
 
-These differences can make it challenging to design for all autistic web users.{{< spacer >}}
+These differences can make it challenging to design for all autistic web users.
 
 {{< cards count=3 >}}
 {{< card >}}
