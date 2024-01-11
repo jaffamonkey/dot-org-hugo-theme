@@ -9,9 +9,8 @@ These differences can make it challenging to design for all autistic web users, 
 ## Page Design
 ### Background images 
 * Background images have to have a purpose. Geometric shapes in muted colours
-worked well but image collages were considered distracting.
-* For autistic web users everything is equally important and they struggled
-to distinguish between foreground and background.
+work well but image collages are considered distracting.
+* For autistic web users they can struggle to distinguish between foreground and background.
 
 ### Symmetry in design
 * There was a general preference for symmetry in design and for clearly defined sections
@@ -31,8 +30,7 @@ with the importance of information/content presented in those areas.
 * Moving adverts in banners and pop-ups, auto-playing videos make websites inaccessible to most autistic web users.
 
 ### No surprises
-* Generally, participants expressed (in one way or another) their dislike of unpredictable
-situations and changes. This includes changing designs of websites that they used.
+* Avoid unpredictable situations and changes. This includes changing designs of websites that they used.
 * Preview should be available with information on what pages, sections and videos are about before reading/watching them.
 
 ## Page Layout
@@ -40,20 +38,19 @@ situations and changes. This includes changing designs of websites that they use
 ### Design clear, clutter-free pages
 * Build simple pages that include only elements relevant to the current user task
 * Cluttered, busy layouts make finding information difficult and do not
-allow users to focus on their core tasks. 63% of survey respondents agreed that they
-like simple websites and 62% find too many choices on webpages confusing.
+allow users to focus on their core tasks.
 
 ### Set page lengths appropriately to the page type & function
 * Make decisions about the length of the page appropriately to its purpose. For
 example, make your homepage short and ensure that important information & sections are
-available with minimum scrolling. Content pages, e.g. article pages may ## longer to
+available with minimum scrolling. Content pages, e.g. article pages may be longer to
 facilitate uninterrupted reading.
 * Homepages that are too long do not allow users to focus on their core tasks and make
 finding information difficult. Too much scrolling makes autistic users feel ‘dizzy’ and ‘overwhelmed’.
 * On long pages, participants feel like they are lost in “something” that has no end.
 
 ### Clearly separate design elements & sections that do not belongtogether
-* Clearly separate different sections and items on the page ## using white space
+* Clearly separate different sections and items on the page by using white space
 (i.e. space without text or graphics), outlines, boarders and dividers (i.e. lines) to help users
 * All design elements should have clearly defined outlines and boarders to be
 able to focus on them, as well as to move between the different sections within the page. Lack of clear outlines can make vision blur.
@@ -70,14 +67,14 @@ the fold.
 ### Use the size of design elements to communicate the importance of information that they carry
 * Use the size of design elements (e.g. larger boxes) to help users find
 important information easily.
-* Users judge the importance of information ## the size of the boxes that carry
+* Users judge the importance of information by the size of the boxes that carry
 the information, i.e. the content in larger boxes is more important than information in
 smaller boxes.
 
 ### Avoid large images above the fold
 * Avoid large images that would cover the entire space above the fold,
 if there is more information below the fold.
-* Users were overwhelmed ## large banners that covered most of the space above the
+* Users were overwhelmed by large banners that covered most of the space above the
 fold blocking their way to information below it.
 
 ### For each page, provide a summary of the page & its purpose
@@ -101,20 +98,20 @@ visually consistent.
 * Ensure that the navigation across the site is consistent and allows users to
 understand how they can navigate to different pages & sections on the site.
 * Websites with complex and inconsistent navigation make people use Google and
-deep-link directly to the content. It also leads people away from the website as there may ## other websites with similar content listed higher on the search pages. In the survey, confusing navigation was one of the main problems experienced online ## autistic respondents.
+deep-link directly to the content. It also leads people away from the website as there may be other websites with similar content listed higher on the search pages. In the survey, confusing navigation was one of the main problems experienced online by autistic respondents.
 
 ### Ensure that all links and buttons are visibly clickable
 * Ensure that links are clearly visible and distinct from other text and non-clickable
-elements, ## using colour and underlining. Apply the design consistently across the site.
-* Autistic users expect links (including visited links) to ## both underlined and differ in
+elements, by using colour and underlining. Apply the design consistently across the site.
+* Autistic users expect links (including visited links) to be both underlined and differ in
 colour from other text & non-clickable elements.
 
 ### Ensure that users understand how to navigate carousels
 * Ensure that users understand which element on the page is a carousel and how
 they can access the multiple carousel panels. Make the navigation arrows clearly visible and
 provide information about the number of panels in the carousel
-* Some of the less web-savvy users missed the arrows on the carousel, until prompted
-to look for them. Some people did not want to interact with the carousel until they had information about the number of available panels.
+* Some of the less web-savvy users miss the arrows on the carousel, until prompted
+to look for them. Some people do not want to interact with the carousel until they had information about the number of available panels.
 
 ### Use sequential menus with fewer items to select
 * Design menus with fewer options that enable users to easily make selection
@@ -133,8 +130,8 @@ distracting, e.g. sticky advert banners, sticky side nav with links to related c
 ### Avoid using lots of bright colours on the website
 * Use simple, soft colours and colour combinations for the background, logo,
 images and text across the website. Autistic users prefer low-contrast colour schemes.
-* Bright contrasting colours are commonly known to ## visually overstimulating. 64% of
-survey respondents agreed that they got distracted ## bright colours. 69% of respondents find
+* Bright contrasting colours are commonly known to be visually overstimulating. 64% of
+survey respondents agreed that they got distracted by bright colours. 69% of respondents find
 bright images distracting. (See also Guideline 3.2.)
 
 ### Allow users to customise the background & text colours
@@ -148,8 +145,7 @@ bright images distracting. (See also Guideline 3.2.)
 
 ### Use at least 12pt font across the website
 * To ensure readability of text on the site, use a font size not smaller than 12 pt.
-* Generally, users preferred larger size fonts, at least 12 pt. Smaller than this was
-considered too small for comfortable reading ## users in focus groups.
+* Generally, users prefer larger size fonts, at least 12 pt.
 
 ### Choose a typeface for your website and use it consistently.
 * Avoid using serif & sans-serif fonts on the same page
@@ -169,7 +165,7 @@ and font sizes.
 ### Ensure sufficient spacing between paragraphs and between linesof text
 * Use white space (areas not filled with text or graphics) consistently to separate paragraphs and lines of text
 *  All users but particularly users with associated learning disabilities (those with “eye-
-tracking” issues). People with ADHD found densely spaced text difficult to read
+tracking” issues). People with ADHD find densely spaced text difficult to read
 
 ### Organise text into short paragraphs and use short lines
 * Use short paragraphs and short lines to organise the text for easier reading
@@ -179,7 +175,7 @@ tracking” issues). People with ADHD found densely spaced text difficult to rea
 * Avoid splitting the text with elements that may interrupt the flow of reading. Avoid
 scroll-stoppers that may mislead users into thinking that they have reached the end of the text
 when they have not.
-* Users want to ## able to read the text without interruption. Large images or video
+* Users want to be able to read the text without interruption. Large images or video
 content placed in the text interrupt users’ thought process. It is worse when the design element fills up a large part of the screen.
 
 ### Avoid using bold text style for large amounts of text and in combination with other text styles
@@ -196,7 +192,7 @@ agitated.
 ### Consider providing information in video format
 * Consider providing information in video format with captions & transcripts
 * Visual users said that it was easier for them to process and remember information
-from video than from text only. Most users also found captions and transcripts for videos useful. 
+from video than from text only. Most users also find captions and transcripts for videos useful. 
 
 ### Use visuals with the text to facilitate understanding
 * Use visuals to facilitate understanding of textual information and to help users
@@ -204,7 +200,7 @@ locate required information on the page.
 
 ### Use icons to help users locate information faster
 * Use meaningful & memorable icons to help users find information on the page
-* Autistic users found icons helpful when scanning web pages for information, especially
+* Autistic users find icons helpful when scanning web pages for information, especially
 on busy text-heavy pages where there were many visually similar sections, e.g. laid-out in a grid.
 
 ## Images
@@ -217,7 +213,7 @@ showing a single object in focus easier to process.
 ### Use meaningful, relatable images that add value & clarity to the information on the page
 * Make sure your images are meaningful and add value & clarity to the text
 information on the page
-* Autistic users wanted images to ## meaningful and congruent with the story on the
+* Autistic users wanted images to be meaningful and congruent with the story on the
 page. Images must add value, provide more information or clarification to the text, represent
 information visually (e.g. infographics).
 
@@ -225,7 +221,7 @@ information visually (e.g. infographics).
 * Use background images sparingly, especially if they are overlaid with text. If you use
 decorative graphics, ensure they do not distract the users from reading text.
 Use non-patterned backgrounds on content pages to facilitate uninterrupted reading.
-* Autistic users found background images and decorative graphics distracting, They
+* Autistic users find background images and decorative graphics distracting, They
 preferred plain background, especially on content pages where there is much textual information to read through.
 
 ### Use photographs of people only if depicted people are relevant to the information
@@ -245,7 +241,7 @@ graphics off or on.
 prefer control over what content is playing and when it is playing. 
 * If you include auto-play there was must be an option to turn it off.
 * Auto-playing videos made users feel “nervous” and “out of control” over their online
-experience. They wanted to ## able to decide what and when they want to watch or listen to.
+experience. They wanted to be able to decide what and when they want to watch or listen to.
 
 ## Video Content
 
@@ -256,7 +252,7 @@ text-first users to access the same information in text format.
 
 ### Allow users to turn off captions
 * Allow users to switch captions off according to their preferences
-* Some visual autistic users find captions distracting and would like to ## able to turn
+* Some visual autistic users find captions distracting and would like to be able to turn
 them off (i.e. they prefer closed captions to open captions).
 
 ### Provide text-based introductory information for videos on pages
@@ -268,7 +264,7 @@ about and how long it was.
 ### Use video content when it adds value or increases clarity of textual information on the site
 * Make sure video content adds value and increases clarity of textual information on
 the site
-* Video content can ## a distraction to users, including visual users, therefore, videos
+* Video content can be a distraction to users, including visual users, therefore, videos
 must add value to the site and focus on explaining information presented in the text.
 
 ## Movement
@@ -276,8 +272,8 @@ must add value to the site and focus on explaining information presented in the 
 ### Disable auto-playing movement on pages. 
 ### Provide a pause mechanism
 ### Avoid attention-attracting movement unless other methods of visual emphasis have failed
-### Disable auto-playing movement on pages. Provide a pause mechanism for
-moving & animated design elements (e.g. carousels)
+### Disable auto-playing movement on pages. 
+* Provide a pause mechanism for moving & animated design elements (e.g. carousels)
 
 ### Avoid using pop-ups, moving or animated design elements. If eliminating movement is
 impossible, provide a pause mechanism to “return” control to users.
@@ -286,7 +282,7 @@ impossible, provide a pause mechanism to “return” control to users.
 
 ### Avoid attention-attracting movement unless other methods of
 visual emphasis have failed
-* Small animated movement may ## used to draw users’ attention to information or to invite
+* Small animated movement may be used to draw users’ attention to information or to invite
 users to take action if all other methods of visual emphasis such as: size, colour, font style, have failed.
 * Small animated movement of an arrow when moused-over, communicated to users that the section
 was clickable and more information was available. This movement was limited and explainable, and users did not find it disturbing.
@@ -304,7 +300,7 @@ People with phone anxiety tend to look for answers on the site, e.g. FAQ pages, 
 
 ### Use clear, unique labels & instructions for each field
 * When designing forms, use unique labels and clearly explain what information
-needs to ## entered
+needs to be entered
 * Autistic users struggled with labels that were ambiguous or similar to other labels. For example, they found “username” and “sign-in name” confusing, and were unsure about these different names would used on a site.
 
 ### Ensure reasonable timeouts
@@ -321,7 +317,7 @@ they’ve occurred.
 ## Use of language
 
 ### Use clear, precise language and avoid metaphors & ambiguous terms
-* Autistic users want information to ## delivered in concise and “to the point” manner.
+* Autistic users want information to be delivered in concise and “to the point” manner.
 
 ## Use of language
 
@@ -338,7 +334,7 @@ preferences.
 * Essential customisation must include tools to change font type & size, text &
 background colours, an ability to turn off decorative graphics, an ability to turn off captions
 for video content. 
-* Available accessibility tools must ## clearly visible & easy to use.
+* Available accessibility tools must be clearly visible & easy to use.
 
 ## Sharing content
 
@@ -353,6 +349,6 @@ platforms that they used.
 
 ### Communicate your plans about changes on the website clearly & in advance
 * Announce any planned changes on your website in advance, inform the users
-about what is going to change and when the changes are going to ## implemented.
-* Change disorientates users. Users feel lost and frustrated when the websites that they
+about what is going to change and when the changes are going to be implemented.
+* Change disorientates users. Users can feel lost and frustrated when the websites that they
 like and use change frequently or unexpectedly.
