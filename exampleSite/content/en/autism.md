@@ -23,8 +23,6 @@ including images having clear boarders.
 ### Logical sizing of elements
 * Generally, participants associated the size of design elements (e.g. boxes)
 with the importance of information/content presented in those areas.
-* “The smaller box and the bigger box – it makes a hierarchy.”
-* “Is the information in larger boxes more important?”
 
 ### No auto-playing content/movement
 * Moving adverts in banners and pop-ups, auto-playing videos make websites inaccessible to most autistic web users.
@@ -46,8 +44,9 @@ example, make your homepage short and ensure that important information & sectio
 available with minimum scrolling. Content pages, e.g. article pages may be longer to
 facilitate uninterrupted reading.
 * Homepages that are too long do not allow users to focus on their core tasks and make
-finding information difficult. Too much scrolling makes autistic users feel ‘dizzy’ and ‘overwhelmed’.
-* On long pages, participants feel like they are lost in “something” that has no end.
+finding information difficult. 
+* Too much scrolling makes autistic users feel ‘dizzy’ and ‘overwhelmed’.
+* On long pages, users can feel like they are lost in “something” that has no end.
 
 ### Clearly separate design elements & sections that do not belongtogether
 * Clearly separate different sections and items on the page by using white space
@@ -191,7 +190,7 @@ agitated.
 
 ### Consider providing information in video format
 * Consider providing information in video format with captions & transcripts
-* Visual users said that it was easier for them to process and remember information
+* THis will make it easier for users to process and remember information
 from video than from text only. Most users also find captions and transcripts for videos useful. 
 
 ### Use visuals with the text to facilitate understanding
