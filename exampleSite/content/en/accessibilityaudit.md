@@ -35,6 +35,23 @@ This integration of accessibility practises into the development workflow gives 
 
 > Treat an audit as a startpoint, to integrating accessibility checks earlier in the development lifecycle.
 
+## The process
+
+### Questions
+- Is the audit for web and/or mobile app?
+- What is WCAG Level Required?
+- Do you have User guides?
+- Do we need login details?
+- For web, do you have a sitemap.xml or list opf URLs?
+- For mobile app, do you have a template list"
+- Do you need Extended UX checks (disability-focused)
+- Is access to source control possible?
+- Do you need more customised test automation scripting (to follow user journeys, for example)
+- Do you need tools integrations into design and development environment
+- Do you need an Accessibility strategy from design/development perspective.
+- DO you need Web based dashboard where you can add/maintain new URL's for regular checks and monitoring.
+- Do you need code-level checking and reporting (SonarQube)
+
 ## Recent clients
 
 * Coloplast
@@ -43,5 +60,6 @@ This integration of accessibility practises into the development workflow gives 
 * TympaHealth
 * ZoomDoc
 * Medialogix
+* IMS Maxims
 
 <!-- {{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}} -->
