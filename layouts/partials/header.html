@@ -6,11 +6,11 @@
     <div class="container wrap">
 
         {{ with .Site.Params.logo_on_white }}
-        <a class="logo-link" href="{{ "https://jaffamonkey.com/" | absLangURL }}">
+        <a class="logo-link" href="https://jaffamonkey.com">
             <img class="logo" width="150" height="40" src="{{ . | absURL }}" alt="{{ $.Site.Title }}">
         </a>
         {{ else }}
-        <a class="site-title-link" href="{{ "https://jaffamonkey.com/" | absLangURL }}">
+        <a class="site-title-link" href="https://jaffamonkey.com">
             <span class="site-title">{{ $.Site.Title }}</span>
         </a>
         {{ end }}
