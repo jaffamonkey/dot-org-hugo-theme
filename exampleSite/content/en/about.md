@@ -2,9 +2,6 @@
 title: About
 description: Quality Assurance / Test Engineering / Test Architect / Test Coaching / Accessibility
 ---
-## What I do
-
-Since 1997 I have regularly done testing contract work, covering QA/Test Managenent to Quality/Test Engineering.
 
 ## The services
 
