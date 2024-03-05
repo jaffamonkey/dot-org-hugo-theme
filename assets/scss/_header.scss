@@ -62,7 +62,7 @@
     .site-title-link {
         text-decoration: none;
         color: var(--primary-400);
-        text-transform: uppercase;
+        // text-transform: uppercase;
         font-family: var(--condensed-font-family);
         font-weight: 700;
         font-size: 20px;
@@ -236,7 +236,7 @@
             display: flex;
             align-items: center;
             justify-content: space-between;
-            text-transform: uppercase;
+            // text-transform: uppercase;
             &.is-open {
                 border-width: 4px;
             }
