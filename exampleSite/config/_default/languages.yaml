@@ -29,15 +29,15 @@ en:
     - identifier: "about"
       name: "About"
       url: "/about/"
-      post: "More about me."
+      post: "More about us."
       parent: "aboutme"
       weight: 1
-    - identifier: "history"
-      name: "Career history"
-      url: "/history/"
-      weight: 2
-      post: "Detail-oriented, and forward-thinking, with 27 years experience in the field of Quality."
-      parent: "aboutme"
+    # - identifier: "history"
+    #   name: "Career history"
+    #   url: "/history/"
+    #   weight: 2
+    #   post: "Detail-oriented, and forward-thinking, with 27 years experience in the field of Quality."
+    #   parent: "aboutme"
     - identifier: "testing"
       name: "Testing"
       url: "/qualityengineering/"
