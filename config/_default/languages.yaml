@@ -1,0 +1,123 @@
+en:
+  languageName: English
+  weight: 1
+  ### copyright (markdown can be used) ###
+  copyright: "Copyright &copy; {{< current_year >}} jaffamonkey ltd."
+  title: "Quality engineering"
+  description: "Quality engineering"
+  params:
+    ## accessibility ###
+    accessibility:
+      skip_text: "Skip to content"
+      help_text: "Accessibility Statement"
+      help_url: "/accessibilitystatement/"
+    ### calls to action ###
+    main_cta:
+      text: "Book an intro meeting"
+      link: "https://calendly.com/jaffamonkeyltd/intro-call"
+    footer_cta:
+      text: "Book an intro meeting"
+      link: "https://calendly.com/jaffamonkeyltd/intro-call"
+    github_edit: "Edit this page on GitHub"
+  ### example menu showing children ###
+  menu:
+    main:
+    - identifier: "aboutme"
+      name: "About"
+      url: "/aboutme/"
+      weight: 1
+    - identifier: "about"
+      name: "About"
+      url: "/about/"
+      post: "More about us."
+      parent: "aboutme"
+      weight: 1
+    # - identifier: "history"
+    #   name: "Career history"
+    #   url: "/history/"
+    #   weight: 2
+    #   post: "Detail-oriented, and forward-thinking, with 27 years experience in the field of Quality."
+    #   parent: "aboutme"
+    - identifier: "testing"
+      name: "Testing"
+      url: "/qualityengineering/"
+      weight: 2
+    - identifier: "qualityengineering"
+      name: "Quality engineering"
+      url: "/qualityengineering/"
+      weight: 1
+      post: "Testing strategies to help you implement new tools and approaches across teams."
+      parent: "testing"
+    # - identifier: "test-strategy"
+    #   name: "Test Strategy"
+    #   url: "/qualityengineering/"
+    #   weight: 2
+    #   post: "Nulla consequat massa quis enim. Donec pede justo."
+    #   parent: "testing"
+    # - identifier: "process-improvement"
+    #   name: "Process improvement"
+    #   url: "/processimprovement/"
+    #   weight: 3
+    #   post: "Aenean commodo ligula get dolor. Aenean massa. "
+    #   parent: "testing"
+    - identifier: "accessibility"
+      name: "Accessibility"
+      url: "/accessibilityaudit/"
+      weight: 3
+    - identifier: "accessibility-audit"
+      name: "Audit"
+      url: "/accessibilityaudit/"
+      weight: 1
+      post: "Accessibility Audit"
+      parent: "accessibility"    
+    - identifier: "accessibility-strategy"
+      name: "Strategy"
+      url: "/accessibilitystrategy/"
+      weight: 2
+      post: "Accessibility strategy"
+      parent: "accessibility"    
+    - identifier: "autism"
+      name: "Autism"
+      url: "/autism/"
+      weight: 3
+      post: "Accessibility and autism"
+      parent: "accessibility"
+    - identifier: "wcag-principles"
+      name: "WCAG principles"
+      url: "/wcagprinciples/"
+      weight: 4
+      post: "WCAG principles"
+      parent: "accessibility"
+    # - identifier: "faq"
+    #   name: "FAQs"
+    #   url: "/faq/"
+    #   weight: 4
+    # - identifier: "blog"
+    #   name: "Blog"
+    #   url: "/blog/"
+    #   weight: 5
+es:
+  languageName: Spanish
+  contentDir: content/es
+  weight: 2
+  title: "Título del Sitio"
+  description: "Descripción del Sitio"
+  menu:
+    main:
+    - identifier: "about"
+      name: "Acerca de"
+      url: "/accessibilityaudit/"
+      weight: 1
+    - identifier: "child-1"
+      name: "Página Hija de Ejemplo"
+      url: "/accessibilityaudit/"
+      weight: 1
+      parent: "about"
+    - identifier: "faq"
+      name: "FAQs"
+      url: "/faq/"
+      weight: 3
+    - identifier: "blog"
+      name: "Blog"
+      url: "/blog/"
+      weight: 2
