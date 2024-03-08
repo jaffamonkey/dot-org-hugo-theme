@@ -13,3 +13,9 @@ description: Quality engineering in the pipeline.
 You can benefit from a wealth of technical skills and project expertise, delivering quality improvements to entire project pipeline.
 
 I am adept at introducing quality measures into projects, sometimes within a few days if a deadline demands it.
+
+## The services
+- Test automation framework implementations.
+- Guidance on testing process within the CI/CD pipelines.
+- Cross-team testing strategies.
+- Accessibility audits for web and mobile app.

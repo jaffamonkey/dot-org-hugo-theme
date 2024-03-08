@@ -22,16 +22,16 @@ en:
   ### example menu showing children ###
   menu:
     main:
-    - identifier: "aboutme"
-      name: "About"
-      url: "/aboutme/"
-      weight: 1
-    - identifier: "about"
-      name: "About"
-      url: "/about/"
-      post: "More about us."
-      parent: "aboutme"
-      weight: 1
+    # - identifier: "aboutme"
+    #   name: "About"
+    #   url: "/aboutme/"
+    #   weight: 1
+    # - identifier: "about"
+    #   name: "About"
+    #   url: "/about/"
+    #   post: "More about us."
+    #   parent: "aboutme"
+    #   weight: 1
     # - identifier: "history"
     #   name: "Career history"
     #   url: "/history/"
