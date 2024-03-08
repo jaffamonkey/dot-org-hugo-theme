@@ -46,7 +46,7 @@ en:
       name: "Quality engineering"
       url: "/qualityengineering/"
       weight: 1
-      post: "Testing strategies to help you implement new tools and approaches across teams."
+      post: "Combining Quality assurance with Test engineering."
       parent: "testing"
     # - identifier: "test-strategy"
     #   name: "Test Strategy"
