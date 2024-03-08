@@ -3,17 +3,20 @@ title: Accessbility automation
 description: Make Accessibility an integral to your project pipeline
 ---
 
-> With a simple set of choices, we can run accessibility tests in our pipelines and generate useful feedback for your development design teams.
+> With a simple set of choices, we can run accessibility tests in our pipelines and generate useful feedback for your development and design teams.
 
 While manual checks are always recommended, you can achieve a high degree of prevention by introducing automation into your design and development cycles.
 
-## Our pipeline tools
+## The tools
 - NVDA and Voiceover Screenreader output
 - Sitemap/URLs a11y verification
 - Sitemap/URLs aXe scan
 - Performance reporting from Lighthouse
-- Mobile app accessibility checks on real cloud devices, using popular frameworks such as Espresso and Playwright.
-### With access to your codebase, we can also run
+- Mobile app accessibility checks on real cloud devices
+For real device tests, we use customised popular frameworks, such as Espresso, XCUITest and Playwright, which enables testing in a more real-life context. 
+
+## Code analysis
+_(requires read-only access to your codebase)_
 - CodeQL code analysis
 - Semgrep code analysis
 - SonarQube code analysis
