@@ -7,7 +7,21 @@ description: Make Accessibility an integral to your project pipeline
 
 While manual checks are always recommended, you can achieve a high degree of prevention by introducing automation into your design and development cycles.
 
-### Web
+## Our pipeline tools
+- NVDA and Voiceover Screenreader output
+- Sitemap/URLs a11y verification
+- Sitemap/URLs aXe scan
+- Performance reporting from Lighthouse
+- Mobile app accessibility checks on real cloud devices, using popular frameworks such as Espresso and Playwright.
+### With access to your codebase, we can also run
+- CodeQL code analysis
+- Semgrep code analysis
+- SonarQube code analysis
+
+
+<!-- {{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}} -->
+
+<!-- ### Web
 - Windows/MacOS
 	- All content
 	  Content by template
@@ -124,4 +138,4 @@ While manual checks are always recommended, you can achieve a high degree of pre
 
 
 
-** _Disabilities: Dyslexia, Age, Language, Culture, Education, Economic position, Tech aptitude, Cognitive, Physical Mobility, Auditory._
+** _Disabilities: Dyslexia, Age, Language, Culture, Education, Economic position, Tech aptitude, Cognitive, Physical Mobility, Auditory._ -->
