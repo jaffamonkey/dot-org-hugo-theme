@@ -70,25 +70,25 @@ en:
       weight: 1
       post: "Accessibility Audit"
       parent: "accessibility"    
-    - identifier: "accessibility-strategy"
-      name: "Strategy"
-      url: "/accessibilitystrategy/"
+    - identifier: "accessibility-automation"
+      name: "Automation"
+      url: "accessibilityautomation/"
       weight: 2
-      post: "Accessibility strategy"
+      post: "Accessibility Automation"
       parent: "accessibility"    
-    - identifier: "autism"
-      name: "Autism"
-      url: "/autism/"
-      weight: 3
-      post: "Accessibility and autism"
-      parent: "accessibility"
-    - identifier: "wcag-principles"
-      name: "WCAG principles"
-      url: "/wcagprinciples/"
-      weight: 4
-      post: "WCAG principles"
-      parent: "accessibility"
-    # - identifier: "faq"
+    # - identifier: "accessibilityautomation"
+    #   name: "Autism"
+    #   url: "/autism/"
+    #   weight: 3
+    #   post: "Accessibility and autism"
+    #   parent: "accessibility"
+    # - identifier: "wcag-principles"
+    #   name: "WCAG principles"
+    #   url: "/wcagprinciples/"
+    #   weight: 4
+    #   post: "WCAG principles"
+    #   parent: "accessibility"
+    # # - identifier: "faq"
     #   name: "FAQs"
     #   url: "/faq/"
     #   weight: 4
