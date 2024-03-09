@@ -22,10 +22,10 @@ en:
   ### example menu showing children ###
   menu:
     main:
-    # - identifier: "aboutme"
-    #   name: "About"
-    #   url: "/aboutme/"
-    #   weight: 1
+    - identifier: "home"
+      name: "Home"
+      url: "/"
+      weight: 1
     # - identifier: "about"
     #   name: "About"
     #   url: "/about/"
