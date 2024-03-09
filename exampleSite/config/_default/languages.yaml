@@ -76,12 +76,12 @@ en:
       weight: 2
       post: "Accessibility Automation"
       parent: "accessibility"    
-    # - identifier: "accessibilityautomation"
-    #   name: "Autism"
-    #   url: "/autism/"
-    #   weight: 3
-    #   post: "Accessibility and autism"
-    #   parent: "accessibility"
+    - identifier: "accessbilityandautism"
+      name: "Autism"
+      url: "/accessbilityandautism/"
+      weight: 3
+      post: "Accessibility and autism"
+      parent: "accessibility"
     # - identifier: "wcag-principles"
     #   name: "WCAG principles"
     #   url: "/wcagprinciples/"

@@ -2,7 +2,7 @@
 title: Accessbility and autism
 description: Accessbility and autism
 ---
-Autism is a spectrum. Not everyone who is autistic prefers the same things. Many autistic people also have associated other conditions, like Dyslexia or Learning Difficulties thatimpact on their preferences. Many do not have other conditions. Other demographic factors can also impact people’s references, such as socio economic factors, and familiarity with technology.
+Autism is a spectrum. Not everyone who is autistic prefers the same things. Many autistic people also have associated other conditions, like Dyslexia or Learning Difficulties that impact on their preferences. Many do not have other conditions. Other demographic factors can also impact people’s references, such as socio-economic factors, and familiarity with technology.
 
 These differences can make it challenging to design for all autistic web users, and below is a general guide to assist in those challenges.
 
