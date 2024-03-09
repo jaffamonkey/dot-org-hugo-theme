@@ -78,7 +78,7 @@ en:
       parent: "accessibility"    
     - identifier: "accessbilityandautism"
       name: "Autism"
-      url: "/accessbilityandautism/"
+      url: "/accessibilityandautism/"
       weight: 3
       post: "Accessibility and autism"
       parent: "accessibility"
