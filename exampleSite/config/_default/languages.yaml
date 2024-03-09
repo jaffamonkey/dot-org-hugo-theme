@@ -38,16 +38,16 @@ en:
     #   weight: 2
     #   post: "Detail-oriented, and forward-thinking, with 27 years experience in the field of Quality."
     #   parent: "aboutme"
-    - identifier: "testing"
-      name: "Testing"
-      url: "/qualityengineering/"
-      weight: 2
+    # - identifier: "testing"
+    #   name: "Testing"
+    #   url: "/qualityengineering/"
+    #   weight: 2
     - identifier: "qualityengineering"
       name: "Quality engineering"
       url: "/qualityengineering/"
       weight: 1
-      post: "Combining Quality assurance with Test engineering."
-      parent: "testing"
+      # post: "Combining Quality assurance with Test engineering."
+      # parent: "testing"
     # - identifier: "test-strategy"
     #   name: "Test Strategy"
     #   url: "/qualityengineering/"
