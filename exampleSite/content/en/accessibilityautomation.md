@@ -13,6 +13,7 @@ While manual checks are always recommended, you can achieve a high degree of pre
 - Sitemap/URLs aXe scan
 - Performance reporting from Lighthouse
 - Mobile app accessibility checks on real cloud devices
+
 For real device tests, we use customised popular frameworks, such as Espresso, XCUITest and Playwright, which enables testing in a more real-life context. 
 
 ## Code analysis
