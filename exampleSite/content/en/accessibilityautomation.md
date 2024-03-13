@@ -9,10 +9,9 @@ While manual checks are always recommended, you can achieve a high degree of pre
 
 ## The tools
 - NVDA and Voiceover Screenreader output
-- Sitemap/URLs a11y verification
-- Sitemap/URLs aXe scan
-- Performance reporting from Lighthouse
-- Mobile app accessibility checks on real cloud devices
+- Sitemap/URLs scanners
+- Performance checkers
+- Mobile app accessibility tests on real cloud devices
 
 For real device tests, we use customised popular frameworks, such as Espresso, XCUITest and Playwright, which enables testing in a more real-life context. 
 
