@@ -2,7 +2,7 @@
 title: Testing from Design to Production
 description: Testing from Design to Production
 ---
-> "I've never heard of you." ~ A world-famous Agile coach
+> "I've never heard of you." ~ An Agile coach
 
 - Testing strategies to help you implement new tools and approaches across teams.
 - Test engineering architecture and implementation within your CI/CD pipelines. 
