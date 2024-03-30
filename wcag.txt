@@ -1,0 +1,1575 @@
+# WCAG 2.1 AA
+1.1.1 Text Alternatives for Non-text Content
+All non-text content (e.g., images, maps, audio recordings, web cams, etc.) needs to
+have a text alternative that conveys the same information found in the content.
+Purely decorative, non-meaningful images (e.g., dividing line between nav bar and
+content) does not need alt text but does need an empty alt attribute.
+Other non-text content is covered in later success criteria.
+What to do
+* add alt text and/or descriptions to meaningful images
+* leave empty alt attributes for non-meaningful images
+Resources
+* How to add alt text (YouTube – 3 min 26 secs)
+* Alt text for complex images
+Plain English Explanation
+This success criteria comes down to making sure all non-text content on your website
+has a text equivalent.
+Alt text for images is fairly easy to understand and implement but writing accurate,
+concise alt text can be more difficult than you might think.
+Only images that convey meaning or information should have alt text values. Purely
+decorative images should have alt attributes that are left empty.
+For complicated images that convey large amounts of information (e.g., infographics),
+alt text should describe generally what the image is and then reference a full text
+description rather than attempt to all information.
+Of course, non-text content includes content such as audio files (e.g., podcasts) and
+videos but we’ll cover these items in other success criteria.
+Just remember that if it’s non-text, there needs to be a text alternative available.
+In addition to audio and video, there are exceptions to this requirement as follows:
+Controls and inputs require a name that describe their purpose and are addressed in
+other success criteria.
+If non-text content is a test or an exercise that would be spoiled if presented in text,
+then the text alternatives at least provide a description of the non-text content.
+If the content is intended to create a specific sensory experience, then text alternatives
+provide at least a description identification (i.e., what it is) of the non-text content.
+Also, for CAPTCHAs, text alternatives must identify and describe the purpose of the
+CAPTCHA and alternative forms of CAPTCHA are provided to accommodate different
+disabilities.
+Understanding 1.1.1
+1.2.1 Alternatives for Audio-Only and Video-Only Content
+For all prerecorded video-only files (no dialogue) and/or audio-only files (no video),
+make a text transcript available. You may also record a synchronized audio track (or
+audio description) of what is happening inside the video as an alternative to the text
+transcript.
+What to do
+* add a text transcript link or full text transcript near the audio or video file
+An audio description will convey all of the important visual content found in the video.
+As we are only dealing with video-only files in this success criteria, we don’t have to
+work in the description during pauses.
+Resources
+* What is an audio description (YouTube – 2 min 12 secs)
+* How to add an audio description to a video (YouTube – 8 min 0 seconds)
+* How to create text transcripts for free (YouTube – 1 min 29 seconds)
+* How to format a text transcript
+* Best practices for text transcripts
+* How to embed a text transcript using HTML (complicated – not for beginners)
+Plain English Explanation
+Here we’re focused in media files that are only audio or only video (as opposed to
+video with audio).
+A prime example of an audio-only file is a podcast. For a podcast, you will provide a
+full text transcript.
+For a video-only file in which there is no dialogue, you want to provide either a full text
+transcript or the option to hear an audio description of what is taking place in the video.
+A text transcript can convey the speakers’ names and roles and what they say. A full
+text description will convey other relevant information contained within the media.
+For example, a door slamming is not part of the spoken dialogue, but, if it’s for effect, it
+may be relevant for the content.
+You can always copy and paste a full text transcript directly below a video but this is
+not a viable option for many websites. Another option is to create a descriptive link
+below the video (e.g., text transcript for video) and include the full text transcript on
+another page.
+Understanding 1.2.1
+1.2.2 Closed Captions for Video with Audio
+For all prerecorded (non-live) video files, there must be synchronized and accurate
+closed captions.
+What to do
+* Add closed captioning to all videos with audio
+Note that closed captions are more than subtitles. Subtitles merely convey dialogue.
+Closed captions also include any important sounds in the video (e.g., door slamming,
+background music, etc.)
+Here’s a great distinction between the two from Matinee.co.uk: Subtitles assume the
+audience can hear the audio but needs the dialogue available as well (for instance, the
+dialogue may be in another language or difficult to understand). Closed captioning
+assumes the audience cannot hear the audio and needs a text description of what they
+would be hearing.
+Resources
+* How to use YouTube’s automatic subtitles to make closed captions
+Plain English Explanation
+To satisfy this requirement, your videos need to have closed captions.
+Closed captions require some amount of manual work but there are a handful of free or
+inexpensive tools out there to make the process free or relatively cheap.
+What is really important is that your closed captions sync up with the video and that
+they accurately convey the spoken words.
+Automatic subtitles – even YouTube’s subtitles – aren’t perfect so you do need to edit
+them in addition to adding in any background information for closed captions.
+Understanding 1.2.2
+1.2.3 Audio Description or Full Text Description of Video
+For all prerecorded video files, there must be either an audio description or a full text
+description.
+An audio description provides important information (e.g., actions, characters, scene
+changes) during pauses in the dialogue of a video.
+A full text description provides all visual information contained in the video. Think of it
+as a text transcript plus all of the important context (e.g., scenery, expressions,
+laughter, etc.).
+What to do
+* include an audio description with any video with meaningful information
+conveyed in the background
+Note that if your video’s sound conveys all relevant information, no audio description is
+needed.
+Plain English Explanation
+If you’re noticing some overlap between the success criteria, that’s because there is.
+You’ll need to create an audio description version of your video because an audio
+description ends up being required by 1.2.5.
+Understanding 1.2.3
+1.2.4 Live Captions
+For any live video broadcasts, real-time closed captions that identify speakers and
+include relevant sounds are provided.
+What to do
+* if you host a live video broadcast, you must have real-time closed captions
+included
+This success criterion specifically says it is not intended to require two-way calls
+through web apps to be captioned.
+This success criterion seems to apply to more formal broadcasts and in, in my
+research, I did not find much elaboration on this requirement.
+There are numerous companies that offer real-time closed captioning.
+Plain English Explanation
+If you’re presenting a formal, live broadcast, you need to have the ability to show real-
+time closed captioning.
+A good example of a formal broadcast is a webinar.
+Understanding 1.2.4
+1.2.5 Audio Description for Video
+All prerecorded (non-live) video must have an audio description.
+What to do
+* provide audio description in your video
+Plain English Explanation
+In success criterion 1.2.3, an audio description was an option. 1.2.5 requires it.
+Remember, an audio description is only required if meaningful information is conveyed
+visually but not audibly.
+For example, if your video only consists of someone speaking into the camera, then no
+audio description is required because no important information is presented visually
+that is not presented in audio.
+Understanding 1.2.5
+1.3.1 Structure Semantically with HTML
+Use proper HTML markup techniques to structure your website’s content so that
+meaning and information presented visually and audibly is available programmatically.
+When necessary, add text to convey information.
+What to do
+* Use <h1> to <h6> headings to structure and organize content
+* Use HTML5 semantic markup to structure content
+* Make sure data cells are associated with header cells inside a table
+* Use HTML markup for ordered and unordered lists
+* Use ARIA attributes for any custom components
+* When programmatic semantics aren’t enough, add text to supply meaning (e.g.,
+add “required” next to astericks that indicates required)
+Resources
+* How to use headings correctly
+* How HTML5 semantics work
+* How to make tables accessible
+* How to create lists correctly
+* Introduction to ARIA (YouTube – 9 min 5 seconds)
+Plain English Explanation
+If you’re not a web developer, you probably don’t understand what 1.3.1 is asking for.
+Semantics, in this context, means you are giving things on your website meaning
+through code.
+Here’s a good illustration:
+Let’s say we want to make a subtopic to organize and break up content within an
+article. We go between two paragraphs and write a subtopic and then increase the
+font to size 28 and bold it like this:
+Subtopic Goes Here
+A sighted user will be able to instantly perceive that this text is a subtopic heading from
+the visual cues of increased font size and the bold.
+A nonsighted user will have this text read by a screen reader without any of the visual
+cues; it will simply read as regular text.
+With semantics, we code meaning into our website so that screen readers can convey
+what is visually presented.
+In the example above, rather than simply making the font bigger and bolder, we’d
+probably want to wrap an <h2> or <h3> tag around the text to indicate a heading and
+the beginning of a new section. We can visually make it have the same appearance
+with CSS coding while retaining the semantic property.
+That’s really at the heart of what this success criterion is getting to; we want to add
+meaning to the different elements and components on our website so that meaning
+can be conveyed to screen reader users who are listening to content rather than
+seeing it.
+We add this meaning through coding.
+This is why it’s crucial to use HTML5 whenever possible when coding our website.
+Sometimes HTML5 may not have an option available so we’ll need to draw from what
+is called WAI-ARIA or, more commonly, ARIA.
+ARIA standards for Accessible Rich Internet Applications and ARIA labels can add
+meaning for more dynamic, custom, or advanced applications where HTML5 is
+insufficient.
+For our websites to meet this success criteria – which is an extremely important one –
+we need to markup and structure the contents and elements on our website properly.
+This is certainly not beginner level stuff but, if you’ve ever examined HTML code
+before, you will be able to quickly learn how to use correct HTML for headings and
+lists. Even the landmark elements from HTML5 are fairly easy to understand.
+Where you’ll likely need the most help is with coding large tables and interactive
+elements such as forms. There are several resources above to help you gain a better
+understanding.
+Understanding 1.3.1
+1.3.2 Correct Reading Order Sequence
+Structure your website so that your content is presented in a logical order both visually
+and programmatically. For any content where the order affects its meaning, make sure
+that order is preserved programmatically.
+What to do
+* Structure your website’s content so that it reads in a logical order
+* Test your website with a screen reader (or without CSS enabled) to make sure its
+reading order is presented correctly
+* Look for any situations where the order of your content affects its meaning and
+ensure that that ordering is intuitive and carries over programmatically
+Resources
+* Chrome/Firefox extension for disabling CSS
+Plain English Explanation
+We need to make sure our website presents content in a sensical order to screen
+readers.
+Where you might run into trouble is if your website has a unique layout (e.g., main
+content in center with a sidebar on the left and right) or multiple columns of content.
+The best way to present content is in the order that most people would naturally read it
+– from top to bottom and left to right.
+Basic reading order:
+1. Header
+2. Main Content
+3. Sidebar
+4. Footer
+The browser extension in the resources section will enable you to view your website
+without CSS enabled.
+CSS is a language that styles the appearance/design of websites.
+The effect is you can compare your website as it shows normally (with styling) and
+without so you can see if there are any differences in the visual presentation vs. the
+order in which a screen reader will read the page.
+There can be more than one correct reading order. The key is that your website
+programmatically reads in a logical, sensical order.
+For this success criterion, the focus is on making sure that any content where the order
+affects its meaning (e.g., an ordered list), that same order is presented
+programmatically.
+Understanding 1.3.2
+1.3.3 Instructions Involve More Than One Sense
+Write clear instructions or convey information in a way that incorporates multiple
+senses. No instructions should rely solely on the ability to perceive shape, size, visual
+location, orientation, or sound.
+What to do
+* Be deliberate and purposeful when writing instructions on your website
+* Attempt to include a text reference (e.g., click on the green button labeled
+“subscribe now”) with every set of instructions
+* Remember that some people will not:
+o Be able to tell what shape an object is
+o Be able to perceive where an object is positioned
+o Be able to hear an audible indicator
+Resources
+* A different but good explanation of 1.3.3
+Plain English Explanation
+The main point here is to incorporate multiple ways to perceive information or provide
+instructions. A good practice is to label things with text and include a reference to that
+text.
+Here are some good and bad examples of sensory instructions.
+Bad examples:
+You can search for additional information using the search bar at the bottom.
+Continue to the next page as soon as you hear a chime.
+Good example:
+Click on the green button labeled “next page” directly below this section.
+---
+Note that not all instructions will take the form of direct statements. WCAG uses the
+example of a data table and providing both a specific background color and icon shape
+to provide information. The color and shape are implying information.
+Understanding 1.3.3
+1.4.1 Color Not Only Way of Conveying Information
+Color should not be used as the only visual way to convey information or make an
+indication.
+What to do
+* Identify any ways your website conveys information by color and make sure there
+is another way to extract the same information
+Plain English Explanation
+This success criterion attempts to eliminate any circumstances where color alone is
+used to convey information, make an indication or prompt the user, or distinguish
+between visual elements.
+Reliance on color alone is very common.
+Examples:
+1. Toggle switches where green indicates activated or on and gray indicates off
+2. Required fields are in red
+3. Color coded graphs and charts
+4. Blue links without additional marker (e.g., underline) embedded in a paragraph of
+black text
+You do not have to eliminate color for information or as an indicator but you do have to
+account for the fact that some people may not be able to perceive the color and add an
+alternate means (such as text) where people can gather the same information or
+indication.
+Understanding 1.4.1
+1.4.2 Audio Control
+Users must have a way to pause or stop any audio that automatically plays for more
+than three seconds.
+What to do
+* Don’t have any audio that automatically plays on your website.
+* If you do have audio that automatically plays, provide for an easy way to adjust,
+mute, pause, or stop the video.
+Plain English Explanation
+One of the fundamental principles of accessibility is to put the user in control of the
+page’s content: website owners provide the content and functionality and users choose
+what they want to access and engage with.
+This success criteria drives that point home and is fairly simple to meet.
+WCAG discourages the practice of having any automatic audio but provides a quick
+three second exception.
+I highly recommend not having any media that plays automatically.
+Understanding 1.4.2
+1.4.3 Color Contrast
+Text and images of text should have a color contrast ratio of 4.5:1 against the
+background.
+Exceptions
+* Large text (18 point or 14 point bold) only has a minimum 3:1 ratio
+* Logos or brand names don’t have a requirement
+What to do
+* Make sure all text on your website meets a 4.5:1 color contrast ratio (or 3:1 ratio
+if its larger text)
+Resources
+* WebAIM color contrast checker
+* Colorzilla color selector Chrome and Firefox extension
+* Gimp photo editing software
+* How to use WebAIM color contrast checker (YouTube – 1 min 12 secs)
+Plain English Explanation
+This is one of the easier success criteria to check for and fix.
+The point is to make sure our text sufficiently stands out from the background. The
+closer text color is to background color, the harder the text is to read.
+Here’s an example:
+It’s much, much easier to read the white text on a black background vs. the dark gray
+text which shows why color contrast ratio is so important.
+To figure out what colors your website is using, use a color selector tool to grab a color
+off your website. You will be able to get its hexadecimal code (e.g., #efefef). You can
+then enter this into the WebAIM checker and instantly know what your color contrast
+ratio is.
+One way to do this is to install the Colorzilla browser extension and use its color
+selector.
+Another way is to take a screenshot of a webpage and then paste it into a photo editing
+software like Gimp (free) and then use the color selector from there to find out the
+hexadecimal code.
+If this all sounds confusing, the video in the resources section will help you out.
+I highly recommend you meet a 4.5:1 ratio with all text regardless of what size it is.
+Understanding 1.4.3
+1.4.4 Text is Resizable to 200%
+All text on your website can be resized up to 200% without any loss of content or
+functionality on your website.
+What to do
+* Use min height in CSS so that containers increase when text size increases
+Resources
+* Text resizing explained (YouTube – 2 min 14 secs)
+* Text resize best practices
+Plain English Explanation
+You should be able to increase text size on your page by up to 200% without the page
+display messing up (i.e., having text overlap over other text or elements).
+Here’s an example where I increased the text size beyond 200% on ADA.gov:
+In the top right-hand corner, the “Search ADA.gov” search bar is hard to see and you
+can’t read the text that says “More Search Options” and you can’t even see the “go”
+button anymore.
+Beyond accounting for minimum height with containers in CSS (remember, CSS is
+code that styles websites), I recommend creating a starting default size of at least 14
+point so that users don’t have to zoom or resize text as much as they normally would.
+The key here is that your text can be resized without causing any negative experience
+for someone using your website.
+Understanding 1.4.4
+1.4.5 Avoid Images of Text
+Do not use images of text on your website except where absolutely necessary or for
+branding purposes (e.g., logo).
+What to do
+* Make sure you only have absolutely necessary images of text.
+* Avoid images that include text that conveys information if at all possible
+* Graphs, screenshots, and diagrams which convey important information of more
+than just text are probably okay as images
+* If you do have an image that includes text, add alt text and potentially a caption
+or description
+Plain English Explanation
+Avoid images of text as much as possible. Logos are fine.
+If you do have an image that has text inside it, account for that information with
+alternative text or a description of the image.
+If the same presentation can be made using only text (and not an image), never use an
+image.
+Images of text are acceptable when it would be impossible to replicate the affect
+otherwise.
+Understanding 1.4.5
+2.1.1 Functionality Available by Keyboard Only
+Make sure all functionality / interactive features are operable with only a keyboard.
+What to do
+* Unplug your mouse and make sure you can fully use all functionality on your
+website
+Plain English Explanation
+All functions on your website must be accessible without a mouse. This means users
+must not only be able to navigate to and from controls / interactive elements but
+perform all functions through the use of a keyboard only.
+Elements to double check:
+* Drag and drop programs
+* Selecting items
+* Design programs
+* Media players
+Certain programs that require a mouse (e.g., painting program) may fall under an
+exception.
+Understanding 2.1.1
+2.1.2 No Keyboard Trap
+Keyboard-only users must be able to navigate to and from all parts of a website. A
+mouse should never be necessary to move away from any element of a website.
+What to do
+* Unplug your mouse and make sure you can get navigate both forwards and
+backwards from every element and section of a website
+Resources
+* Keyboard accessibility overview
+* Example of keyboard trap (YouTube – 1 min 4 secs)
+* How to use the tabindex attribute to improve usability for keyboard-only users
+Plain English Explanation
+This success criterion is related but different to 2.1.1. Whereas 2.1.1 was focused on
+all functionality being keyboard navigable, this success criterion is concerned with the
+user being able to fully to navigate through a website without being trapped.
+In effect, keyboard focus should never be trapped. Rather, a user should always be
+able to move focus with a keyboard.
+With no keyboard trap, it’s especially important to test any pop-ups, forms, embeds, or
+widgets on your website to make sure that users can back out of them with
+ease.Understanding 2.1.2
+2.2.1 Adjustable Time Limit
+For any time limit on a website, a user must have one of the following options:
+* Ability to turn off time limit
+* Ability to adjust time limit to at least 10x the default setting
+* After a warning of time limit expiration, given at least 20 seconds to extend time
+limit at least 10x
+Exceptions
+* The time limit is part of a real-time event (e.g., auction) and no alternative is
+possible
+* The time limit is essential (e.g., buying tickets online) and extending it would
+invalidate the activity
+* The time limit is longer than 20 hours
+What to do
+* Avoid time limits wherever possible
+* If a time limit is necessary, provide the ability to adjust or extend it unless you
+meet an exception above
+Plain English Explanation
+This success criterion is self-explanatory. If you have a time limit on your website,
+definitely reference the WCAG link below.
+Understanding 2.2.1
+2.2.2 Pause, Stop, Hide Moving Content
+Any moving, blinking, scrolling, or auto-updating content that starts automatically and
+lasts more than five seconds must provide the ability for a user to pause, stop, or hide
+it.
+Auto-updating means content updates or disappears on a preset schedule.
+Exceptions
+* Unless the content is essential
+Examples
+* Stock ticker
+* Sports scores
+* Blinking advertisement
+* Scrolling news updates
+* Gifs
+What to do
+* Limit or eliminate any content that moves or updates automatically
+Plain English Explanation
+For any content that begins to move on its own, provide the ability to pause, stop, or
+hide it after five seconds.
+Moving content can be extremely distracting so this success criterion severely limits it.
+WCAG allows for five seconds for automatic moving content to catch someone’s
+attention.
+Again, you should be picking up on a theme: the user remains in control of the
+website’s content. Keep this in mind when you remediate or build your digital asset for
+accessibility.
+Understanding 2.2.2
+2.3.1 Limited Flashing Content
+Nothing on a webpage flashes more than three times in a second.
+The terms “flashing” and “blinking” can mean the same thing. WCAG distinguishes
+flashing as content that can cause a seizure. Blinking refers to content that can be a
+distraction. The two can be the same if blinking occurs faster than three times per
+second.
+What to do
+* Limit or eliminate any flashing content
+Plain English Explanation
+2.3.1 is written to prevent seizures.
+The point here is to severely restrict flashing content.
+Although there are exceptions that provide for automatic content, I recommend making
+your website as static as possible by default, with options to activate helpful automatic
+content.
+Understanding 2.3.1
+2.4.1 Bypass Blocks
+Provide a link in the top left of your that allows users to skip the header of your website
+and go straight to the main content.
+You may also see this referred to as a “skip to content” or “skip navigation” link or
+generally as a “skip link”.
+Skip navigation links can be visible or hidden in the presentation of a website.
+Other mechanisms to bypass blocks include headings and landmarks.
+What to do
+* Add a skip navigation link to all pages of your website
+* Add headings or landmarks to structure your page for navigation.
+Resources
+* Why a skip navigation link is helpful (YouTube – 0 min 50 secs)
+* How to create skip links and hide them (YouTube – 4 min 58 secs)
+Plain English Explanation
+Provide the ability to skip past your header (with menu, navigation, ads, etc.) and go
+directly to the main content of your website.
+The skip to content or skip to navigation link is the commonly thought of means of
+meeting this success criterion.
+However, having landmarks and proper headings can also technically satisfy this
+success criterion.
+Understanding 2.4.1
+2.4.2 Descriptive Page Titles
+Each webpage has a unique and descriptive page title that lets the user know what the
+topic or purpose of the page is.
+What to do
+* Make sure all pages of your website have a page title
+Resources
+* How to write helpful page titles (YouTube – 2 min 10 secs)
+Plain English Explanation
+It’s not enough to have a title tag exist on each page of your website, the titles need to
+be descriptive enough for a user to identify what the topic or purpose of a page is.
+Also, no two pages of your website should have the exact same title tag – a title tag
+may be close to identical to another page but there should always be some
+distinguishing component.
+For example, two bank statement pages may be the exact same except one has “Oct”
+and the other has “Sep” in the title tag.
+Understanding 2.4.2
+2.4.3 Focus Order
+When users tab through your website, the elements that receive focus appear in a
+logical order that does not affect the meaning of the content. There are often multiple
+ways to logically present so you can choose which way you think is best. Although it
+isn’t strictly required, the focus order should match the programmatic reading order or,
+at least, not deviate significantly.
+What to do
+* Ensure the interactive elements of your website that receive focus are tabbed
+through in a sensical order
+Resources
+* Great guide to focus order
+Plain English Explanation
+This success criterion requires that you’re able to tab through a website in a logical,
+sensical manner.
+For example, it wouldn’t make sense to tab from a menu link in the header and
+immediately go to a search box in the footer, bypassing various cart options in the
+middle of the page.
+What we’re doing here is making sure the tab order goes in a logical sequence that
+flows in a sensical manner.
+Ideally, your focus order should match the programmatic order of your website, but
+2.4.3 doesn’t strictly require this. However, it does note that the visual presentation
+should not be significantly different from the focus order.
+Note: If you have a problem with focus order, positive tabindex values may be the
+source of your problem.
+Understanding 2.4.3
+2.4.4 Descriptive Links
+Write your link text so that users have an idea what the linked page is or make sure
+that the purpose of the link can be known in context with other text.
+What to do
+* Use obvious link anchor text (anchor text are the words you link under)
+* Avoid long URL and “click here” and “learn more” general type of links
+* Try to use mostly keywords (vs. fluffy words like “click here”) when creating links
+* Be especially cognizant of creating useful alt text when linking images
+Resources
+* Descriptive vs. Non-descriptive links (YouTube – 3 min 46 secs)
+Plain English Explanation
+Write your links so that they’re descriptive and easy to read. Also, try to keep your
+anchors concise.
+This is actually one of the more common accessibility failures of websites, but the good
+news is it’s also one of the easiest to fix.
+I used to link under “click here” quite frequently until I learned the importance of
+descriptive anchor text.
+The video in the resources shows how a long URL link can be frustrating.
+2.4.4 does provide for two exceptions: 1) the link text together with its programmatically
+determined link context makes the purpose known and 2) whether the purpose of the
+link is ambiguous to users in general.
+An example of context helping to provide purpose is the following sentence, where
+“click here” is linked:
+To find out more about the new batch of strawberries click here.
+Also, the purpose of a link may be ambiguous in multiple scenarios including a quiz or
+a game where the answers are “hidden” behind a link. In this case, we wouldn’t want
+the link to be descriptive.
+Understanding 2.4.4
+2.4.5 Multiple Ways of Finding Pages
+Make it so that there is more than one way to find content or pages within your
+website.
+What to do
+* Ensure navigation menus are in place
+* Add a global search
+* Add a sitemap
+* Add a related pages section below content
+* Add a table of contents on lengthy pages
+These bullets aren’t explicitly required but I’ve included them as examples to funnel
+you in the direction this success criterion is getting after.
+Exception
+* If a page is part of a process (such as a review cart page before you checkout),
+you don’t have to provide multiple ways to find it
+Plain English Explanation
+Make it as easy as possible to find content and the different pages on your website. If
+you add a search bar and sitemap, you’ve satisfied this success criterion.
+Another idea is to incorporate what are referred to as breadcrumbs. Breadcrumbs are
+links that show you the path of where a particular page is within a website structure so
+you can easily know where you are.
+Think back to the story of Hansel and Gretel and how Hansel dropped pieces of bread
+so they could find their way home if they got lost. Website breadcrumbs help you find
+your way within a website.
+Here’s an example from Section508.gov:
+This trail of links makes finding your way within Section508.gov easy no matter what
+page you’re on.
+Breadcrumbs are not essential but they can be extremely helpful.
+You can go another step further and add a related resources section below content on
+your website (e.g., links below a blog post to similar posts or related content).
+Again, you’re just trying to make content easier to find by making your website more
+navigable.
+Understanding 2.4.5
+2.4.6 Headings and Labels
+Write clear, descriptive headings for content and/or labels for form fields and other
+interactive elements.
+What to do
+* Use concise, clear language for headings within a page (e.g., <h1>, <h2>) and
+labels on interactive elements
+* A single word can be sufficient if it relays the necessary information
+Plain English Explanation
+This success criterion isn’t requiring headings and labels, it’s merely saying that when
+you use them, write clearly and descriptively so a user knows what content follows or
+what form fields are asking for.
+For example, an effective label for a form that is asking for a first name is “First name”.
+As another example of sufficient descriptiveness, the <h1> heading for an article might
+be “How to Make a Website Accessible” and an <h2> heading might be “Provide
+Content Alternatives”.
+The key here is that headings and labels are clear and descriptive so a user knows
+what content to expect or what input a form field is asking for.
+Understanding 2.4.6
+2.4.7 Visible Focus
+When an interactive element (link, button, form field, selectable element, etc.) receives
+focus, a visual indicator shows so a user can easily see what element they are
+currently on.
+What to do
+* Style your website so that any interactive element shows visible focus when it
+receives focus
+Resources
+* CSS code example for styling a visible focus
+Plain English Explanation
+Make sure that when someone tabs through your website, any interactive element
+(such as a link or form field) that receives focus has a focus indicator of some kind.
+An interactive element is one in which a user can engage with or take an action on
+(e.g., click on or input a value).
+Typically, a focus indicator is a rectangle box around an interactive element.
+I recommend you make focus very clear and conspicuous by providing a strong,
+contrasting color for a box border or potentially highlighting an input field such as a
+search box.
+There are many styles you can use to provide visible focus.
+Understanding 2.4.7
+3.1.1 Default Language
+The default language for each page of your website is set in the code.
+What to do
+* Make sure your language is set inside your HTML code (the example below
+shows US English)
+Resources
+* List of language codes
+Plain English Explanation
+Whatever the primary language is for your website, make sure that is the default
+language set in your website’s HTML code.
+To check this right now, type
+view-source:https://yourwebsite.com
+into Chrome or Firefox.
+Look at the very top for <html lang=
+Understanding 3.1.1
+3.1.2 Language Change
+If the language of a page or on parts of a page is different from the default language of
+the website, the change needs to be indicated in the HTML code.
+What to do
+* Use HTML markup to indicate a language change when you switch to words or
+phrases that are meant to be read in another language
+* For any links to alternative versions of the website/page in another language, use
+the HTML markup to indicate a language change
+* Note that some adopted words can be incorporated into content without calling
+for a language markup (e.g., the use of “siesta” to refer to a nap in an English
+blog)
+Resources
+* How to set language of a paragraph
+* How to set language of a link
+Plain English Explanation
+If there is a language switch for a page, linked page, or paragraph, set the language for
+the switch in the HTML code.
+Understanding 3.1.2
+3.2.1 No Automatic Change on Focus
+Nothing on a website should automatically change just because it receives focus.
+What to do
+* Check your website to make sure nothing automatically happens just because an
+interactive element (such as a link, form field, selectable option, etc.) is tabbed
+through or on
+* An automatic change can be a pop-up, switching focus to another element, or
+automatically taking action as if the user had initiated action (e.g., clicking a link,
+submitting a form, etc.) when all they had done was focus on an element
+Plain English Explanation
+You always want to put the user in control of your website’s content and functions.
+This success criterion speaks to that by requiring that no elements automatically
+change just because they receive focus.
+For example, if you tab on the submit button after completing a form, the form should
+not automatically submit. The form should only submit once you initiate action.
+Here we’re making sure our website only responds once the user initiates reaction,
+never because they shifted focus onto an element.
+Most websites should not have a problem with this.
+Understanding 3.2.1
+3.2.2 No Automatic Change on Input
+There are no user interface changes or actions that automatically occur due to input or
+settings changes (e.g., form doesn’t auto submit once all fields are filled out).
+What to do
+* Check your website to make sure nothing automatically happens just because an
+interactive element receives input.
+* Check your website to ensure no automatic changes result from changing the
+settings.
+Plain English Explanation
+This is almost the same as 3.2.1 but this time we’re making sure that adding input or
+changing a setting doesn’t create an automatic change. In 3.2.1 we were talking about
+focus.
+For example, inputting text into a registration form should not result in the form being
+submitted.
+As another example, checking a check box next to the shipping address you want to
+use for your order doesn’t automatically complete the checkout.
+As one more example of a settings change, changing the language on a page from
+English to Spanish doesn’t automatically reload the page.
+The exception here would be if the user is notified ahead of time that the change will
+automatically occur and/or the user chooses the option for the automatic changes, but,
+generally, best practice is generally to avoid automatic changes as a result of input or
+settings changes.
+Can you see that familiar theme shining through once again?
+Put the user in control.
+3.2.2 shouldn’t be a problem for your website but it is definitely something that needs
+to be verified and accounted for.
+Understanding 3.2.2
+3.2.3 Consistent Navigation
+Keep your navigation menu placement and order consistent throughout your website.
+What to do
+* Make sure your header and footer menus stay consistent throughout your
+website
+* Consistency involves placement and order of links, search bars, and skip
+navigation links
+Plain English Explanation
+If your page contains a navigation menu (in the header, footer, or both), make sure it is
+consistent with the menu(s) on other pages of your website.
+3.2.3 is getting after predictability. When it comes to website navigation, we don’t want
+to switch things up on users.
+We want users to be familiar with where the search bar is located on our website.
+We want users to know the order of our navigation menus.
+Understanding 3.2.3
+3.2.4 Consistent Identification
+Page components (e.g., links, buttons, icons) that have the same functionality should
+be identified (with labels, names, and text alternatives) consistently throughout a
+website.
+What to do
+* Keep all of your identification consistent throughout your website
+* Consistent usually means identical but not always
+Examples:
+* The Twitter share icons for your website should all have the same alt text
+throughout the website
+* Your search bar should have the same label throughout your website (unless you
+have multiple search bars for different functions)
+* The same check mark icon used for different functions on a website should have
+different alt text to match its different functions (e.g., “correct”, “finished”)
+Plain English Explanation
+If you read through this success criterion too quickly, you might come away thinking
+that everything that looks identical needs to have the same identification.
+This isn’t the case.
+Rather, here, we’re just trying to make sure we have consistency in our labels.
+Sometimes this might mean that things stay the exact same across our website.
+However, in other instances where the functionality is different, we merely want to
+maintain consistency.
+For example, the same exact button within a series of pages might be labeled, “Go to
+Page 4” and “Go to Page 5”. Note this is consistent but not identical.
+With 3.2.4, we need to maintain consistency within our website by identifying things
+with the same functionality or meaning in a consistent manner. If something has the
+same function throughout a website, it will probably have the same identification on all
+pages but it might not depending on the function.
+Understanding 3.2.4
+3.3.1 Input Errors
+When any input error is automatically detected, alert the user, describe the error, and
+provide instructions on how to correct it.
+What to do
+* Clearly and specifically identify any errors that can be detected automatically
+* Provide precise instructions on how to fix that error, potentially including an
+example where applicable (e.g., correct date format)
+* Make it easy to find where the error is by adding a visual indicator
+Resources
+* Amazing video that explains input error best practices (YouTube – 22 min 10
+secs) --- Developers, watch this video
+* Example and explanation of code for error identification
+Plain English Explanation
+When a user is filling out a form on your website, for any errors that are automatically
+detectable, make it easy for users to identify and correct the error. You can do this by:
+* Clearly identifying what and where the error is
+* Providing clear, precise instructions on how to fix the error
+Examples:
+* When someone enters in an incorrect email format (e.g., tom@gmailcom)
+* When someone enters a date not in the required format (e.g., entering 21 instead
+of 2021)
+* When someone fails to enter a value in a required field (e.g., no state on an
+address is selected)
+Understanding 3.3.1
+3.3.2 Labels and Instructions
+Provide clear visual and programmatic labels or instructions for user input fields,
+ensuring users understand what information is required and how to input it.
+What to do
+* Assign a visible label for every form field or area of user engagement/control
+* Do not overdo instructions, one word or a few can suffice
+* Provide examples of expected input formats or structure data input so that the
+expected format must be entered
+* Conspicuously mark required fields with an icon
+Plain English Explanation
+Every element that allows for user input should have clear, concise, descriptive labels
+and, where applicable, instructions.
+A label could be “First Name”.
+An instruction could be “All fields marked with an * are required.”
+It’s very important that you don’t overdo your instructions and bog down the process of
+inputting data.
+For example, rather than simply labeling a form field as “email”, you put:
+“your email that you prefer to receive our newsletter at”
+The purpose of this success criterion is to make it easy to understand what data input
+is being asked for.
+Understanding 3.3.2
+3.3.3 Error Suggestions
+Make suggestions on how to fix errors on forms if an input error is automatically
+detected.
+What to do
+* Provide clear, specific instructions on how to fix input errors.
+* Make it easy to correct form fields.
+* Preserve other form data (i.e., the inputs without errors) so the entire entry (e.g.,
+form) doesn’t have to be re-filled out
+Plain English Explanation
+This looks very familiar, right?
+3.3.3 is an extension of 3.3.1. Whereas 3.3.1 requires notification of errors, 3.3.3 takes
+it a step further by requiring suggestions and instructions to help users correct those
+errors.
+We’ve already addressed this in 3.3.1. The key takeaway with this success criterion is
+to be thorough in helping users fix input errors.
+Understanding 3.3.3
+3.3.4 Prevent Serious Errors
+For any web pages that have important implications (legal commitments, rights
+waivers, spending money, scheduling reservations, etc.), make sure that at least one
+of the following options is available:
+1. Submissions are reversible
+2. Input is checked for errors and the user is provided an opportunity to correct
+errors
+3. There is an option to review, confirm, and correct information before finalizing the
+submission
+What to do
+* Provide ample opportunity for users to review and correct any potential errors,
+especially when it comes to stuff with big implications
+Examples of big implications:
+* Legal contracts
+* Money being spent
+* Reservations
+Plain English Explanation
+We want to make sure everyone gets their desired result when making a submission,
+especially when it comes to things with big implications.
+For example, imagine the difference one “0” can make it when it comes to buying a
+$25 stock. If instead of entering “100” shares to purchase, I enter “1000”, I just
+committed to spend $25,000 instead of $2,500.
+Or imagine, if when booking a hotel, I select “September” as my month instead of
+“August”.
+As we all know, it’s extremely easy to make these types of errors. And this is why it’s
+so crucial that we provide users with ample opportunity to review, correct, and/or
+reverse any submissions they make on our website.
+I recommend you incorporate as many ways as possible to prevent errors:
+1. Where feasible, allow users to reverse a submission after it is made. For
+example, you provide for a window of time for someone to completely
+cancel/undo/delete a submission or agreement.
+2. Always automatically check for detectable errors and provide an opportunity to
+correct them.
+3. Before any final submission is made, users are given an opportunity to review,
+confirm, and/or correct a potential submission.
+If your website potentially falls under the serious implications/transactions category
+(think legal, financial, data, reservations, and anything else with a big impact),
+scrutinize your form submission process heavily.
+Understanding 3.3.4
+4.1.1 Use Good, Clean Code
+Your website should follow best practices and standards for coding. Any notable
+errors in code should be fixed.
+What to do
+* Make sure all elements have start (open) and end (close) tags
+* Nest all HTML elements correctly
+* Make sure elements do not contain duplicate attributes
+* Make sure element IDs are unique
+* Check for and eliminate broken links
+Resources
+* Markup Validator (check for errors in your code – not all, in fact many errors
+won’t be relevant for accessibility and some errors won’t show)
+* How to fix HTML with examples
+Plain English Explanation
+This is a very broad and sweeping requirement. It ensures that browsers, screen
+readers, and other assistive technologies can analyze and make your website’s code
+understandable (“parse” is the technical word) so that your website is rendered
+correctly.
+Many browsers can go past errors and still render a website correctly but it’s bad
+practice to rely on browsers and assistive technologies to interpret incorrect code.
+What 4.1.1 boils down to is making sure your website’s code is fundamentally sound
+by checking and testing.
+Developers should look over and check your code.
+Everyone should test your website, especially using screen readers, to make sure it
+renders correctly.
+The markup validator above will help with catching some errors but it is not a substitute
+for a manual examination of your code.
+The most important takeaway here is to make sure your website is free of any major
+coding errors that prevent assistive technologies like screen readers from accurately
+rendering your website.
+Note: Assistive technologies are any technologies that help persons with disabilities
+access the web. Screen readers are the most common assistive technology but others
+include screen magnification software, text readers, voice to text or speech input
+software, and other devices that facilitate access, navigation, and input.
+Understanding 4.1.1
+4.1.2 Name, Role, Value are Available
+For all interactive elements (forms, custom components, etc.), the applicable name,
+role, state, and/or value should all be able to be programmatically determined.
+This success criterion applies specifically for custom components such as ones a
+developer has created or from third party vendors because correctly coded HTML
+controls will already meet this success criterion.
+What to do
+* Make name, role, state, and value of all components programmatically available
+* Use ARIA labels when HTML is unavailable
+* Check any non-HTML code to make sure it is accessible
+* Any custom code (plugins, widgets, scripts, etc.) from a third party needs to be
+vetted for accessibility
+A name can be a label or the assigned text to an element.
+A role is whatever a component is stated to be; what the component is. For example,
+a component can be assigned a role of button, menu, slider, progress bar, etc. and that
+role will be relayed to a screen reader.
+Value is whatever the input is for a component. For example, value might be the slider
+value selected (e.g., 4 on a scale of 1-10) or the selection of yes or no. Not all
+components will have a value.
+State is the current status of a component. For example, state might be whether a
+checkbox is checked or unchecked or whether a component is collapsed or expanded.
+Resources
+* Understanding role, name, and value (YouTube – 1 min 2 secs)
+* Great tutorial on creating accessible forms (YouTube – 51 min 34 secs)
+* Why name, state, role, and value are important
+* ARIA basics
+* iFrame explanation and examples
+Plain English Explanation
+When you deviate from HTML in your website’s code, you need to make sure whatever
+custom or third-party code you’ve added remains accessible to assistive technologies.
+This mostly comes down to the name, role, state, and/or value of page components
+being determinable from the code.
+The name and role should already be set, but remember that the states, values, and
+properties that a user updates must also be available programmatically to reflect the
+changes.
+For example, with value, if a user changes the quantity from 1 to 4, this change must
+be available programmatically.
+To maintain accessibility for custom or third-party components, you’ll need to
+incorporate ARIA labels and possibly iFrames.
+ARIA will take a while to understand but if your website has dynamic components,
+you’ll need to learn how to incorporate it into your code. The ARIA basics link from the
+resources section a great introduction into ARIA.
+With iframes/frames, you’re embedding content to a page from external sources.
+Think of YouTube videos and advertising scripts you paste into your site. Ensure
+iframes have a descriptive title attribute and you may want to add an ARIA label when
+the title isn’t enough. The title will describe the element/component but the label will
+describe the contents.
+Understanding 4.1.2
+WCAG 2.1 AA
+1.3.4 Orientation
+WCAG Official Success Criterion:
+Content does not restrict its view and operation to a single display orientation, such as
+portrait or landscape, unless a specific display orientation is essential.
+Read the official WCAG page for 1.3.4
+My Interpretation:
+What to do
+* Ensure your content and controls work in both landscape and portrait
+orientations.
+* If your website includes games or interactive elements, design them to work in
+both orientations.
+Resources
+* Adjusting layout based on orientation
+Plain English Explanation
+Unless absolutely necessary, make sure that your website and/or app and its content
+can display well in both portrait (vertical) and landscape (horizontal) mode on phones,
+tablets, etc.
+The only reason you should lock a page display is if it’s absolutely necessary.
+For example, when you deposit a bank check, you need to snap the photo horizontally
+so a lock of landscape would be permissible.
+Not only should your website generally meet this success criteria but you also need to
+check and ensure that video embeds, widgets, and any third-party integrations also
+display well properly no matter which way a mobile device is turned.
+Understanding 1.3.4
+1.3.5 Identify Input Purpose
+WCAG Official Success Criterion:
+The purpose of each input field collecting information about the user can be
+programmatically determined when:
+* The input field serves a purpose identified in the Input Purposes for User
+Interface Components section; and
+* The content is implemented using technologies with support for identifying the
+expected meaning for form input data
+Read the official WCAG page for 1.3.5
+My interpretation:
+What to do
+* Clearly label each form field with its purpose (e.g., "Email", "Date of Birth").
+* Use the autocomplete attribute in forms where relevant, to allow browsers to
+suggest or autofill information.
+* Specify the input type (e.g., "email", "tel", "date") to further clarify the expected
+content for assistive technologies.
+Resources
+* Sample code for simple form (scroll to bottom of page)
+* W3 list of available autocomplete information
+Plain English Explanation
+Make the purpose of an input element programmatically determined so browsers and
+assistive technology can help guide and facilitate inputting information (e.g., provide
+autocomplete option).
+In other words, make sure your website's forms clearly state what type of information
+they're asking for. This helps tools, like screen readers and browsers, give suggestions
+or fill in information automatically.
+To do this:
+Use specific input types like email, phone number, and date for form fields.
+Also, use the 'autocomplete' attribute for forms that request common information so
+browsers can suggest saved information for quicker filling out.
+This is different from labels. With labels we are describing what the element is for, here
+we’re relaying the purpose in the background so browser and screen reader
+technology can help the user.
+Autocomplete is obviously the main way input purpose helps but there are other ways
+including:
+* Browsers and tools can give hints or suggestions when filling out a form, making
+it easier for the user.
+* Screen readers can describe forms more clearly so users know exactly what
+information to provide.
+* Some tools can change how they work based on the form. For example, they
+might show a number pad if a phone number is needed.
+* If a mistake is made, clearer messages can be given about what needs fixing,
+helping users to get things right.
+Understanding 1.3.5
+1.4.10 Reflow
+WCAG Official Success Criterion:
+Content can be presented without loss of information or functionality, and without
+requiring scrolling in two dimensions for:
+* Vertical scrolling content at a width equivalent to 320 CSS pixels;
+* Horizontal scrolling content at height equivalent to 256 CSS pixels.
+Except for parts of content which require two-dimensional layout for usage or meaning.
+Read the official WCAG page for 1.4.10
+My Interpretation:
+What to do
+* Ensure your CSS enables your website content is able to zoomed up to 400%
+without causing 1) loss of info/function and/or 2) users to scroll to see it
+Resources
+* Responsive Web Design Basics
+* CSS Media Query (YouTube video 6 minutes)
+* ResizeMyBrowser.com
+Plain English Explanation
+Ensure someone can zoom in on your website without requiring horizontal scrolling or
+causing poor experience.
+The two goals here are 1) to make it so all functionality is possible and all information
+is available when a website is zoomed-in and 2) to allow people to increase the size of
+content without having to scroll horizontally to see it.
+For some content this the no-scrolling isn’t possible. For example, if you have a map
+or a table of data on your website, it might not fit neatly within a single column without
+making you scroll.
+Some objects are just large and can’t be effectively resized to meet this success
+criteria. For those objects, there is an exception.
+This is a fairly straightforward success criteria that helps users who are using mobile
+devices or who have low vision and need to increase the size of the content.
+What it allows for is smooth scrolling in one direction (the direction can either be
+vertical or horizontal) without the need to scroll in a second direction to view content
+that is off the screen.
+Imagine if you were looking at Instagram on your phone but to read through the
+comments you had to scroll right to finish reading the first comment and then scroll left
+to start the next comment.
+That’s getting at what reflow is all about: We want people to be able to be able to
+effectively access content without having to scroll back and forth.
+Again, when I say effectively it means that no functionality is lost (e.g., I can no longer
+add a product to my shopping cart) and no content is lost (e.g., the text overlaps and
+now makes an article unreadable).
+This applies to any device including desktop. Some users with low vision may need to
+zoom to 400% and, even if they do, they should still be able to effectively scroll your
+website in one direction without having to scroll another direction.
+If your website is already responsive, then odds are you meet this success criterion.
+However, don’t forget about any embeds, widgets, scripts, or third-party integrations
+that may not reflow.
+One way to get a good gauge on whether you meet this success criterion is to open up
+a browser on a 1280 pixel screen and zoom to 400%. If your website still functions
+properly and there is no loss of content, then you’re very likely in good shape.
+I’ve included a link to ResizeMyBrowser.com in the resource section. If you go to
+ResizeMyBrowser.com, you can easily set the dimensions of your browser and then all
+you need to do is zoom in from there.
+Understanding 1.4.10
+1.4.11 Non-text contrast
+WCAG Official Success Criterion:
+The visual presentation of the following have a contrast ratio of at least 3:1 against
+adjacent color(s):
+User Interface Components
+Visual information required to identify user interface components and states, except for
+inactive components where the appearance of the component is determined by the
+user agent and not modified by the author;
+Graphical Objects
+Parts of the graphics required to understand the content, except when a particular
+presentation of graphics is essential to the information being conveyed.
+Read the official WCAG page for 1.4.11
+My Interpretation:
+What to do
+* Check that all meaningful non-text content on your website has sufficient contrast
+with the color surrounding it.
+Resources
+* Accessibility Color Contrast Checker
+Plain English Explanation
+This success criterion is just an extension of the text color contrast ratio criterion from
+2.0 AA.
+We want to make sure that important non-text content that conveys meaning or
+information is easier to see by insuring it has a proper color contrast with adjacent
+colors. This will help those with low vision.
+This means that all meaningful non-text content (e.g., buttons, form fields, icons, etc.)
+on your website should have a minimum 3:1 color contrast ratio to ensure they stand
+out.
+For an example of non-text content, think of a download icon. That icon conveys
+information so it needs sufficient contrast.
+Similarly, any interactive elements such as buttons, check boxes, sliders, or selectors
+must have sufficient color contrast.
+Note that while the color contrast threshold may apply to the page background, it may
+also apply to the color immediately next to it and not necessarily the background.
+Think about when elements or images have outlines.
+The WCAG link below is particularly helpful with details and providing examples of
+what non-text content needs to be addressed and what constitutes a pass or fail.
+Understanding 1.4.11
+1.4.12 Text spacing
+WCAG Official Success Criterion:
+In content implemented using markup languages that support the following text style
+properties, no loss of content or functionality occurs by settings all of the following and
+by changing no other style property:
+* Line height (line spacing) to at least 1.5 times the font size;
+* Spacing following paragraphs to at least 2 times the font size;
+* Letter spacing (tracking) to at least 0.12 times the font size;
+* Word spacing to at least 0.16 times the font size.
+Read the official WCAG page for 1.4.12
+My Interpretation:
+What to do
+* Make sure your text spacing is able to be adjusted
+Resources
+* Steve Faulkner’s Text Spacing Bookmarklet
+Plain English Explanation
+Text spacing must be adjustable without creating any problems in reading or using the
+website.
+This makes sense because text is easier to read when there is more space and we
+want people to have the freedom to increase spacing based on what suits them best.
+The best way to test if you meet this success criteria is by using Steve Faulkner’s text
+spacing bookmarklet above.
+The way you use this is you add that bookmarklet to your browser bookmarks and then
+you go to the website you want to test and then you open Steve Faulkner’s bookmark.
+That’s going to adjust your website’s spacing. If everything still looks good (no loss of
+content or function) once the spacing has increased, you’re in good shape.
+If not, you’ll want to adjust your CSS so that your website is fully responsive.
+Understanding 1.4.12
+1.4.13 Content on Hover or Focus
+WCAG Official Success Criterion:
+Where receiving and then removing pointer hover or keyboard focus triggers additional
+content to become visible and then hidden, the following are true:
+Dismissible
+A mechanism is available to dismiss the additional content without moving pointer
+hover or keyboard focus, unless the additional content communicates an input error or
+does not obscure or replace other content;
+Hoverable
+If pointer hover can trigger the additional content, then the pointer can be moved
+over the additional content without the additional content disappearing;
+Persistent
+The additional content remains visible until the hover or focus trigger is removed, the
+user dismisses it, or its information is no longer valid.
+Exception: The visual presentation of the additional content is controlled by the user
+agent and is not modified by the author.
+Read the official WCAG page for 1.4.13
+My Interpretation:
+What to do
+* Make it so any additional content (e.g., tooltips, pop-ups, submenus) can be
+dismissed or remain visible if the user desires
+Resources
+* Deque.com homepage
+Plain English Explanation
+If a user on your website does something that causes more content to show (e.g., a
+pop-up, submenu, instructions, etc.), then you have to make the following three
+provisions:
+1) A user can get rid of the additional content without moving their pointer or tabbing
+onto something else (e.g., by hitting the ESC key)
+2) The additional content will not disappear if the user moves their pointer over it
+3) The additional content remains visible until pointer hover or focus is removed, the
+user dismisses it, or the content is no longer valid/applicable
+This is a tough monkey to banana.
+A website and its content should remain fully accessible when additional content is
+triggered.
+You know when you move your mouse over or tab to something and more information
+pops up as a result?
+We’re trying to make it so that additional information is accessible and doesn’t cause 1)
+the user any inconvenience and 2) anything else to be inaccessible.
+But how do you actually code this in?
+I’ve scoured Google for a resource on specifically how to implement this success
+criteria and was unable to find anything.
+Deque.com, a good accessibility company, has submenus and they follow this success
+criterion so you can certainly look to their homepage for an example (I’ve linked to
+Deque in the resources section above).
+Understanding WCAG 1.4.13
+2.1.4 Character Key Shortcuts
+WCAG Official Success Criterion:
+If a keyboard shortcut is implemented in content using only letter (including upper- and
+lower-case letters), punctuation, number, or symbol characters, then at least one of the
+following is true:
+Turn off
+A mechanism is available to turn the shortcut off;
+Remap
+A mechanism is available to remap the shortcut to include one or more non-printable
+keyboard keys (e.g., Ctrl, Alt);
+Active only on focus
+The keyboard shortcut for a user interface component is only active when that
+component has focus.
+Read the official WCAG page for 2.1.4
+My Interpretation:
+What to do
+* If you have a keyboard shortcut, make sure to modify it to satisfy the three
+requirements above
+Plain English Explanation
+Think of this success criteria in the terms of someone who uses voice commands. If
+you use voice command and your website or app has a shortcut that is triggered by the
+command, then someone might get an unintended action.
+Also, someone may accidentally hit a key which, again, can generate an unintended
+action.
+We’re trying to prevent these accidental keyboard triggers by providing a way to turn
+off keyboard shortcuts entirely, including a second key in the action, or limiting the
+shortcut to only when a specific component is activated.
+Here is this success criteria one more time:
+If you have a keyboard shortcut on your website, then do any or all of the following:
+1. provide a way to turn it off,
+2. provide a way to change the shortcut to include Ctrl or Alt, and/or
+3. make the keyboard shortcut only available when a specific component is
+activated
+Understanding 2.1.4
+2.5.1 Pointer gestures
+WCAG Official Success Criterion:
+All functionality that uses multipoint or path-based gestures for operation can be
+operated with a single pointer without a path-based gesture, unless a multipoint or
+path-based gesture is essential.
+Read the official WCAG page for 2.5.1
+My Interpretation:
+What to do
+* Provide simple alternatives to potentially complex finger motions on touch
+screens
+Plain English Explanation
+I immediately thought of a dating app when reading this success criterion.
+With dating apps like Tinder and Bumble, you can swipe right if you want to match with
+someone and left if you don’t.
+But for some people, swiping might be difficult so you want to provide a way for them
+to indicate yes or no without requiring a swipe. The way to do this is by providing two
+buttons, one indicating yes and another indicating no that only need to be tapped or
+clicked to create the desired effect without the swipe.
+That’s the essence of 2.5.1: provide a simpler alternative to potentially complex finger
+motions on screens.
+Not everyone has the ability to readily swipe or pinch a screen so we want to account
+for that and provide an alternative way of accomplishing the same thing.
+So, for anything on your website or app that calls for a user to move their finger or
+(mouse) pointer in a specific direction, to use two or more fingers, draw with a stylus, or
+anything along those lines, make an alternative available such as single-click (or tap),
+double-click (or tap), long press, or click and hold.
+For example, think of how we can pinch to zoom screens. All you’d have to do to
+make an alternative here is to provide a way to tap to incrementally increase browser
+size.
+Note: You don’t have to get rid of the more finger or mouse movements, you just need
+to make an alternative is available.
+Understanding 2.5.1
+2.5.2 Pointer cancellation
+WCAG Official Success Criterion:
+For functionality that can be operated using a single pointer, at least one of the
+following is true:
+No Down-Event
+The down-event of the pointer is not used to execute any part of the function;
+Abort or Undo
+Completion of the function is on the up-event, and a mechanism is available to abort
+the function before completion or to undo the function after completion;
+Up Reversal
+The up-event reverses any outcome of the preceding down-event;
+Essential
+Completing the function on the down-event is essential.
+Read the official WCAG page for 2.5.2
+My Interpretation:
+What to do
+* Provide a way to cancel pointer input
+Plain English Explanation
+The first thing you should know is down-event means when you click down on a mouse
+or press down/touch with a finger.
+The second thing you should know is up-event means when you release the mouse or
+lift up your finger.
+If you click or press down and that causes or triggers an activation, that’s a down
+event.
+And if you release the clicker or your finger and it causes or triggers an activation,
+that’s an up event.
+This should clear up a lot.
+The easiest way to satisfy this success criterion is simply to make it so that the release
+of a finger or mouse button (and not the initial click or touch) causes activation or
+execution of the action/event.
+You can also add a cancel and/or abort option which means the user can move their
+mouse or finger to somewhere else and release with no effect. Another option is to
+actually provide the ability to undo the action or confirm they want to proceed with the
+action. This could be as simple as a confirmation pop-up.
+The up reversal part of this means that when the down event triggers a behavior, there
+is an up event that reverses it when the up event concludes. So if you hold a button
+down until a video plays but the video disappears as soon as you let go, this counts
+because the user can cancel the original trigger by letting go.
+Think of this as the no harm-no foul part of this success criterion. If you can activate
+something by clicking down but you can let go to cancel it, you’ve still provided the
+user a means of control.
+The only way a down action should be available is if it’s essential. WCAG gives the
+example of a piano requiring down key activation which makes sense.
+Understanding 2.5.2
+2.5.3 Label in Name
+WCAG Official Success Criterion:
+For user interface components with labels that include text or images of text, the name
+contains the text that is presented visually.
+Read the official WCAG page for 2.5.3
+My Interpretation:
+What to do
+* Make sure all visual labels and programmatic labels are aligned
+Plain English Explanation
+Think about all of the buttons, form fields, and interactive elements like selectors and
+checkboxes where you have where the programmatic label (the label that is inside the
+code) may be slightly different from what visually shows on the website.
+Programmatic labels include HTML labels and ARIA labels.
+For example, let’s say your button visually says “buy” but the programmatic label you
+have associated with it is “order”.
+You’d want to change this so that the visual label and programmatic label are aligned.
+If there is a slight difference in length, start the label and text off with the same few
+words.
+For example, visually a user might see “buy desktop” but programmatically the label
+might be “buy desktop computer”. As long as there are no other labels that start with
+“buy desktop”, you’re in good shape.
+It’s actually somewhat common that websites have a few of these mismatches.
+As another example, a password field may be labeled as login.
+This success criterion benefits users who use text-to-speech and voice commands. If
+they make a command based on what is presented visually and there is nothing that
+corresponds in the code, then they can’t make the desired action.
+This is fairly easy to fix. Just run through your website and make sure that all
+interactive components with labels have their labels match what is visually presented.
+Understanding 2.5.3
+2.5.4 Motion Actuation
+WCAG Official Success Criterion:
+Functionality that can be operated by device motion or user motion can also be
+operated by user interface components and responding to the motion can be disabled
+to prevent accidental actuation, except when:
+Support Interface
+The motion is used to operate functionality through an accessibility supported
+interface;
+Essential
+The motion is essential for the function and doing so would invalidate the activity.
+Read the official WCAG page for 2.5.4
+My Interpretation:
+What to do
+* If you use functions that are activated by motion, provide a simpler, alternative
+means of action. Also, give users the option to turn off the motion activation.
+Plain English Explanation
+If your website or app has functions that are initiated/activated/triggered by moving a
+phone/tablet (e.g., shake to do undo, tilt to move) or by the user making gestures to a
+camera or sensor, these same responses can be made an alternative way (e.g.,
+through a keyboard, pressing a button, voice command, and/or etc.)
+Additionally, users should have the option to turn off the moving or gesture activation.
+For example, imagine you’re taking an Uber from the airport and every time the driver
+hits a pothole, your phone shakes and the app you’re using undoes your previous
+action. You’d want the ability to turn off that shake feature and make it so only when
+you press or say undo, etc., your previous action is undone.
+The key here is to make it so your website or app is fully functional without the use of
+device movement or gestures. Of course, your asset can still have these features but
+you’ll want to provide alternatives.
+This success criterion provides an exception to those movements or gestures which
+are essential.
+Understanding 2.5.4
+4.1.3 Status Messages
+WCAG Official Success Criterion:
+In content implemented using markup languages, status messages can be
+programmatically determined through role or properties such that they can be
+presented to the user by assistive technologies without receiving focus.
+Read the official WCAG page for 4.1.3
+My Interpretation:
+What to do
+* When a status message appears, it should be coded with role or properties so
+that people using assistive technologies (e.g., screen reader) are alerted without
+losing focus
+Plain English Explanation
+Think of someone using a screen reader while shopping on a website and they decide
+to remove an item from the shopping cart. A notification visibly shows at the top of the
+website that says, “Item removed” but the shopper is not alerted to the status change
+via their screen reader.
+Implementing this success criterion changes that.
+With 4.1.3, a user now will receive those nice notifications/status messages because
+they will be coded in through either role or properties.
+As a result, users will be notified without having to change their focus; They will be
+notified of updates/receive status messages without having to take any proactive
+measure.
+Read 4.1.3 to see what actually constitutes a status message.
+Basically, first, a status message is anything that isn’t directly brought to the user’s
+attention.
+Second, a status message is information that tells a user whether something was
+successfully completed or what happened, whether a page is loading or busy, how far
+along they are in a process, or alerts them to errors on a page.
+Status alerts and notifications are subtle but can be necessary and play an important
+when we use websites or apps as they guide us through processes and help us
+reaffirm the actions we’re making.
+It’s important to distinguish status messages from more significant alerts that do
+warrant a change in focus. For example, if someone makes a critical error and a
+dialog pops up or they are taken to a confirmation page to confirm their reservation
+before completing checkout.
+
+# WCAG 2.2 AA
+
+2.4.13 Focus Appearance (AAA)*
+(This success criterion was previously necessary for AA conformance in 2.2
+working drafts but has now been changed to a AAA success criterion in the
+finalized 2.2 release.)
+This success criterion builds upon previous success criteria, 2.4.7 (requirement of a
+focus indicator) and 1.4.11 (requirement that non-text information have a minimum 3:1
+contrast), to require that when a focus state is present, a baseline for visibility is
+established.
+To meet this minimum threshold for visibility, you need to make sure one or both of the
+following are true for the focus indicator when it is in its visible state:
+1. The focus indicator meets all the following conditions:
+o it encloses or creates a border around the focused element
+o there is a color contrast ratio of at least 3:1 when the element is in focused
+and unfocused states (this is because some websites style an element to
+change appearance when it receives focus), and
+o there is a color contrast ratio of at least 3:1 against adjacent non-focus-
+indicator colors (background or border colors).
+2. The focus indicator meets all the following conditions:
+o it is at least as thick as 1 CSS pixel thick on all sides, or is at least as large
+as a 4 CSS pixel thick line along the shortest side,
+o there is a color contrast ratio of at least 3:1 when the element is in focused
+and unfocused states, and
+o there is a color contrast ratio of at least 3:1 against adjacent non-focus-
+indicator colors (background or border colors), or is no thinner than 2 CSS
+pixels.
+The primary difference between the two requirements is that the first requires a solid,
+complete enclosure or border whereas the second requirement doesn’t require the
+solid border and compensates by requiring a 4 CSS pixel thick length line on the
+shortest side.
+Another notable difference is that the second requirement allows for a non 3:1 color
+contrast ratio against background or order colors so long as the focus indicator is at
+least 2 CSS pixels.
+Plain English Explanation
+Because this success criterion offers affordances to accommodate different design
+preferences, it gets confusing.
+What 2.4.11 is after is making sure your focus indicator clearly stands out and is
+visible.
+Think about a situation where a dark blue button receives focus and the focus indicator
+is only a slim dark gray line, it’s easy for focus to be lost – even with a focus indicator.
+It’s this type of situation that we want to avoid.
+To make conformance with 2.4.11 as easy as possible, I recommend defaulting to a
+solid, enclosed focus indicator that is a minimum 2 CSS pixels.
+After this, work to ensure that there is a minimum 3:1 contrast with the element and the
+background.
+If you add a white border outside of your elements, this will make meeting the contrast
+threshold much easier.
+2.4.11 Focus Appearance
+2.4.11 Focused Not Obscured (Minimum)
+When an element receives focus, the focus / focused element is not entirely hidden or
+blocked by other content or elements.
+Plain English Explanation
+We always want to make sure that focus / a focused element is never hidden. That’s
+all 2.4.11 comes down to.
+Pay attention to any sticky headers or footers, pop-ups, floating notifications,
+advertisements, third-party integrations or embeds, overlays of any kind, etc.
+Also test your website under a condensed browser or on mobile devices to ensure that
+content remains unobscured.
+If any scenario exists where an element is tabbed to but focus is hidden or blocked,
+make sure to make it so that focus is visible.
+2.4.11 Focus Not Obscured (Minimum)
+2.5.7 Dragging Movements
+For any functions that require a dragging movement, provide an alternative where
+someone only needs to point and click a mouse or touch to select an item and place it
+elsewhere.
+Plain English Explanation
+This success criterion is not concerned with keyboard navigability but, rather, for the
+ability for someone to use a single point to accomplish the same ability to drag
+something.
+Think about how you might drag and drop a box to rearrange its order.
+On a desktop, you might use a mouse to click and drag the box to another place to
+change its position.
+On a phone, you might use your finger to touch and hold the box to another place to
+change its position.
+With this success criterion, we want to take out the dragging requirement by simply
+clicking or touching the box, releasing the click or lifting our finger, and then having the
+ability to click or touch where we want it to be placed.
+In effect, a user will have the ability to mouse click a box at Point A, release the mouse
+click, and then click on the place the user wants the box to go, Point B, and accomplish
+the same movement and placement of the box without the need to drag the box.
+2.5.7 Dragging Movements
+2.5.8 Target Size (Minimum)
+Make the target size for interactive elements at least 24 by 24 CSS pixels.
+Exceptions are:
+* The target is smaller than 24 by 24 pixels, but has spacing such that the target
+combined with the spacing takes up 24 by 24 pixels before another interactive
+target can be activated
+* When the target does not meet the 24 by 24 exception, but there is another
+control that can accomplish the same function that does meet the size
+requirement
+* When the target size is determined by the user
+* The target is a text link in a sentence or list
+* The low target spacing is essential (e.g., pins on a map that are in close
+proximity)
+Plain English Explanation
+It’s important not to be distracted by the exceptions in this success criterion. The key
+takeaway is that clickable or touchable interactive elements are at least 24 by 24 CSS
+pixels.
+By setting a minimum target size, this success criterion wants interactive elements to
+be easy to select, activate, enter inputs, etc.
+Whether someone is using a mouse, a stylus, or a finger, they should be able to select
+and/or activate a target without missing the target or selecting another target.
+Examples of interactive elements under this success criterion are buttons, sliders,
+checkboxes, form fields, submenu text links, linked icons, etc.
+An easy illustration of this success criterion making a difference is when four social
+media icons are all next to one another, but they’re all so small that it makes it easy to
+click on the Facebook icon when you really wanted to visit the Twitter page. This
+success criterion places a minimum size (or total size with space) on these icons of 24
+by 24 pixels.
+While you can meet this success criterion by adding 4 by 4 px of space to a 20 x 20 px
+element, I highly recommend making all of your interactive elements at least 24 by 24
+px.
+Again, the WAI is offering affordances that give us flexibility to meet success criteria in
+different ways, but its best if you keep it easy on yourself and go above and beyond the
+minimum requirements.
+2.5.8 Target Size (Minimum)
+3.2.6 Help Options Consistent
+Whenever you have options for help that are repeated on multiple pages of your
+website, those options should remain consistent or predictable in their order and
+placement on those pages.
+Plain English Explanation
+If you offer help on your website, this success criterion requires that you make help
+options consistent on your website so that users can easily find it.
+For example, if you have a support link in the footer, that support link should remain
+available in the footer in the same relative order and placement.
+As another example, if there is a chatbot available on the bottom right hand corner of
+your website, that chatbot should remain on the bottom right hand corner of your
+website.
+Contrast these example scenarios against a scenario where a website has a chatbot
+available on some product pages, but not others.
+Other types of help include:
+* contact details (e.g., phone number, email, hours)
+* methods of contact (e.g., messaging, chat box, contact form, social media)
+* FAQ and knowledgebase pages
+Note that this success criterion does not require that you provide help, but that when
+you do provide help, help is consistent.
+Also note that this success criterion does not necessarily apply to all pages of a
+website, but rather to a set of pages that share a common purpose and are created by
+the same author or organization.
+For example, on an e-commerce website, a set of pages that share a common purpose
+would be product pages, but product pages are not the same as the pages that appear
+during the checkout process (e.g., cart, registration, payment, etc.) so the type of help,
+whether you provide help, and where it appears on the checkout pages may be
+different from where it appears on the product pages.
+However, whenever possible, I recommend maintaining consistency and predictability
+with help options.
+Consistent Help
+3.3.7 Redundant Entry
+Information that has already been entered by the user and is required again, in the
+same session, is either auto-populated or selectable.
+Exceptions:
+* when re-entering the information is essential
+* previously entered information is no longer valid
+Plain English Explanation
+Whenever possible, provide users with the ability to auto-populate or select to enter in
+previously entered information so they don’t have to enter the same information twice.
+Think of this success criterion as eliminating redundant, non-essential inputs or entries
+from users.
+For example, when we’re completing the checkout process at an e-commerce website,
+there’s no need for us to re-enter the same information for our shipping address and
+our billing address if they’re both the same.
+For this reason, and to meet this success criterion, we need to make it so that the
+previously entered information can be auto-populated or selected so that we don’t have
+to enter it again.
+One exception is when we need to re-enter the information for a particular reason.
+The obvious example of this is requiring confirmation of a password to ensure that
+we’ve entered the password that we intended to.
+Also, there is an exception for when the previously entered information is no longer
+valid.
+For example, a user previously selected two seats at a movie theater but those seats
+are no longer available.
+3.3.7 Redundant Entry
+3.3.8 Accessible Authentication
+Users do not have to login by remembering a password or solving a cognitive test
+unless one of the following exceptions are met:
+* Another authentication method that does not rely on a cognitive function test.
+* A mechanism is available to assist the user in completing the cognitive
+function test.
+* The cognitive function test is limited to recognizing objects.
+* The cognitive function test is to identify non-text content such as a photo the
+user provided to the website.
+Plain English Explanation
+The key to meeting this success criterion is making sure that there is a way a user can
+login without having to remember their password or solve a cognitive test unless the
+cognitive test is one of those object recognition captchas (e.g., select all of the images
+with stairs).
+The ways you can allow users to login without remembering a password include:
+* Using properly marked up username / email and password fields so that the
+browser or password manager can identify the input purpose and automatically
+fill in the credentials.
+* Ensure your website does not block the paste function for login fields.
+* Integrate WebAuthn into your website so the user can authenticate using their
+device rather than username and password.
+* Allow the ability to login through other methods such as a QR code or the OAuth
+method.
+There are more creative ways you can enable users to login without remembering a
+password, but the key to meeting this success criterion is that users do not have to
+remember a password and/or solve a cognitive puzzle unless that puzzle is based on
+only object recognition.
+However, it is recommended to avoid captchas altogether.
