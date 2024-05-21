@@ -47,7 +47,7 @@ Furthermore, our focus on DevOps integration is a unique aspect of our consultan
 - What is WCAG Level Required?
 - Do you have User guides?
 - Do we need login details?
-- For web, do you have a sitemap.xml or list opf URLs?
+- For web, do you have a sitemap.xml or list of URLs?
 - For mobile app, do you have a template list"
 - Do you need Extended UX checks (disability-focused)
 - Is access to source control possible?
