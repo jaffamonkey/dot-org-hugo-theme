@@ -90,7 +90,7 @@ en:
       parent: "accessibility"
     - identifier: "sdlc"
       name: "Accessibility and SDLC"
-      url: "/accessibility-sdlc/"
+      url: "/sdlc/"
       weight: 5
       post: "Accessibility and SDLC"
       parent: "accessibility"
