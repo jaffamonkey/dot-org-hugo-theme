@@ -84,7 +84,7 @@ en:
       parent: "accessibility"
     - identifier: "accessibilitystrategy"
       name: "Accessibility Strategy"
-      url: "/accessibility-strategy/"
+      url: "/accessibilitystrategy/"
       weight: 4
       post: "Accessibility Strategy"
       parent: "accessibility"
