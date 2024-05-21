@@ -82,12 +82,22 @@ en:
       weight: 3
       post: "Accessibility and autism"
       parent: "accessibility"
-    - identifier: "accessbilityandSDLC"
-      name: "SDLC"
-      url: "/SDLC/"
+    - identifier: "accessibilitystrategy"
+      name: "Accessibility Strategy"
+      url: "/accessibility-strategy/"
       weight: 4
+      post: "Accessibility Strategy"
+      parent: "accessibility"
+    - identifier: "sdlc"
+      name: "Accessibility and SDLC"
+      url: "/accessibility-sdlc/"
+      weight: 5
       post: "Accessibility and SDLC"
       parent: "accessibility"
+
+
+
+      
     # - identifier: "wcag-principles"
     #   name: "WCAG principles"
     #   url: "/wcagprinciples/"
