@@ -5,6 +5,10 @@ description: Make Accessibility an intgeral part of your business
 
 Understanding why accessibility makes you a better and smarter organisation is the first step in any long-term strategy.
 
+![Accessibility](accessibility.jpg)
+
+[Image by storyset](https://www.freepik.com/free-vector/electronic-accessibility-concept-illustration_82646611.htm#query=accessibility&position=4&from_view=keyword&track=sph&uuid=1722d562-791a-4247-a927-3169c7d7a8af)
+
 > What are advantage of integrating Accessibility into your design and development practices.
 
 ## Drive Innovation
